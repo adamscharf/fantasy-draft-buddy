@@ -1,0 +1,10 @@
+{
+  "name": "fantasy-draft-buddy",
+  "version": "0.0.1",
+  "description": "Fantasy Football draft day helper tool",
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-ui-router": "^0.2.13",
+    "angular-material": "^1.1.0"
+  }
+}
