@@ -11,11 +11,11 @@
    * @param avatarsService
    * @constructor
    */
-  rankingController.$inject = ['RankingService', '$log'];
-  function rankingController( RankingService, $log ) {
+  rankingController.$inject = ['LISTS', 'RankingService', '$log'];
+  function rankingController( LISTS, RankingService, $log ) {
     var vm = this;
 
-    vm.receivers = []
+    vm.LISTS = LISTS;
 
     activate();
 
@@ -24,15 +24,9 @@
     /////////////
 
     function activate() {
-      return loadWRs().then(function success(){
+      // return loadList(LISTS.WR_FULL_PPR_TIERS).then(function success(){
         $log.info("Ranking Controller Loaded");
-      });
-    };
-
-    function loadWRs() {
-      return RankingService.loadWRs().then(function success(data) {
-        vm.receivers = data;
-      });
+      // });
     };
 
   };

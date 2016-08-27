@@ -13,24 +13,24 @@
    * @returns {{loadAll: Function}}
    * @constructor
    */
-  RankingService.$inject = ['$http', '$log'];
-  function RankingService($http, $log){
+  RankingService.$inject = ['LISTS', '$http', '$log'];
+  function RankingService(LISTS, $http, $log){
     return {
-      loadWRs : loadWRs
+      loadList : loadList
     };
 
-    function loadWRs() {
-      var version = "FULL_PPR";
+    var path = "rankings/resources/";
 
-      return $http.get("rankings/resources/wr_full_point_tiers.json")
-        .then(loadWRsSucceeded, loadWRsFailed);
 
-      function loadWRsSucceeded(r) {
-        $log.debug(r.data[0]);
+    function loadList(list) {
+      return $http.get("rankings/resources/" + list)
+        .then(loadListSucceeded, loadListFailed);
+
+      function loadListSucceeded(r) {
         return r.data;
       };
 
-      function loadWRsFailed(e) {
+      function loadListFailed(e) {
 
       };
     };

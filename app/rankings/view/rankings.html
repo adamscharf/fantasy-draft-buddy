@@ -1,1 +1,9 @@
-<code><pre>{{ vm.receivers | json }}</pre></code>
+<div layout-gt-sm="row" layout="column">
+	<fdb-ranking-list name="'Wide Receivers'" list="vm.LISTS.WR_FULL_PPR_TIERS"></fdb-ranking-list>
+	<md-divider></md-divider>
+	<fdb-ranking-list name="'Running Backs'" list="vm.LISTS.RB_FULL_PPR_TIERS"></fdb-ranking-list>
+	<md-divider></md-divider>
+	<fdb-ranking-list name="'Quarterbacks'" list="vm.LISTS.QB_SIX_POINT_TIERS"></fdb-ranking-list>
+	<md-divider></md-divider>
+	<fdb-ranking-list name="'Tight Ends'" list="vm.LISTS.TE_FULL_PPR_TIERS"></fdb-ranking-list>
+</div>
