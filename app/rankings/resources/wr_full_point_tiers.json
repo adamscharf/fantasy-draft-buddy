@@ -1,7 +1,7 @@
 [
   {
     "Player": "Antonio Brown PIT (8)",
-    "Ballers Rank": 1,
+    "BallersRank": 1,
     "ADP": 1.01,
     "Projected Pts.": 353.63,
     "Risk": 1.83,
@@ -11,7 +11,7 @@
   },
   {
     "Player": "Julio Jones ATL (11)",
-    "Ballers Rank": 2,
+    "BallersRank": 2,
     "ADP": 1.03,
     "Projected Pts.": 351.6,
     "Risk": 2.67,
@@ -21,7 +21,7 @@
   },
   {
     "Player": "Odell Beckham Jr. NYG (8)",
-    "Ballers Rank": 3,
+    "BallersRank": 3,
     "ADP": 1.03,
     "Projected Pts.": 325.57,
     "Risk": 2.33,
@@ -31,7 +31,7 @@
   },
   {
     "Player": "A.J. Green CIN (9)",
-    "Ballers Rank": 4,
+    "BallersRank": 4,
     "ADP": 1.09,
     "Projected Pts.": 301.53,
     "Risk": 1.67,
@@ -41,7 +41,7 @@
   },
   {
     "Player": "Brandon Marshall NYJ (11)",
-    "Ballers Rank": 5,
+    "BallersRank": 5,
     "ADP": 2.04,
     "Projected Pts.": 295.83,
     "Risk": 3.5,
@@ -51,7 +51,7 @@
   },
   {
     "Player": "DeAndre Hopkins HOU (9)",
-    "Ballers Rank": 6,
+    "BallersRank": 6,
     "ADP": 1.08,
     "Projected Pts.": 287.63,
     "Risk": 3.07,
@@ -61,7 +61,7 @@
   },
   {
     "Player": "Dez Bryant DAL (7)",
-    "Ballers Rank": 6,
+    "BallersRank": 6,
     "ADP": 1.1,
     "Projected Pts.": 288.37,
     "Risk": 4.83,
@@ -71,7 +71,7 @@
   },
   {
     "Player": "Allen Robinson JAC (5)",
-    "Ballers Rank": 8,
+    "BallersRank": 8,
     "ADP": 2.01,
     "Projected Pts.": 291.03,
     "Risk": 3.4,
@@ -81,7 +81,7 @@
   },
   {
     "Player": "Alshon Jeffery CHI (9)",
-    "Ballers Rank": 9,
+    "BallersRank": 9,
     "ADP": 3.02,
     "Projected Pts.": 274.6,
     "Risk": 3.87,
@@ -91,7 +91,7 @@
   },
   {
     "Player": "Keenan Allen SD (11)",
-    "Ballers Rank": 10,
+    "BallersRank": 10,
     "ADP": 2.09,
     "Projected Pts.": 274.97,
     "Risk": 3.1,
@@ -101,7 +101,7 @@
   },
   {
     "Player": "Mike Evans TB (6)",
-    "Ballers Rank": 11,
+    "BallersRank": 11,
     "ADP": 2.09,
     "Projected Pts.": 271.13,
     "Risk": 4.33,
@@ -111,7 +111,7 @@
   },
   {
     "Player": "Demaryius Thomas DEN (11)",
-    "Ballers Rank": 12,
+    "BallersRank": 12,
     "ADP": 3.06,
     "Projected Pts.": 266.7,
     "Risk": 4,
@@ -121,7 +121,7 @@
   },
   {
     "Player": "Jordy Nelson GB (4)",
-    "Ballers Rank": 13,
+    "BallersRank": 13,
     "ADP": 2.06,
     "Projected Pts.": 259.37,
     "Risk": 4.67,
@@ -131,7 +131,7 @@
   },
   {
     "Player": "Brandin Cooks NO (5)",
-    "Ballers Rank": 14,
+    "BallersRank": 14,
     "ADP": 3.03,
     "Projected Pts.": 255.7,
     "Risk": 4.63,
@@ -141,7 +141,7 @@
   },
   {
     "Player": "Sammy Watkins BUF (10)",
-    "Ballers Rank": 15,
+    "BallersRank": 15,
     "ADP": 3.07,
     "Projected Pts.": 253.53,
     "Risk": 6.33,
@@ -151,7 +151,7 @@
   },
   {
     "Player": "Amari Cooper OAK (10)",
-    "Ballers Rank": 16,
+    "BallersRank": 16,
     "ADP": 2.12,
     "Projected Pts.": 250.2,
     "Risk": 3.37,
@@ -161,7 +161,7 @@
   },
   {
     "Player": "Julian Edelman NE (9)",
-    "Ballers Rank": 17,
+    "BallersRank": 17,
     "ADP": 4.07,
     "Projected Pts.": 253.8,
     "Risk": 4.43,
@@ -171,7 +171,7 @@
   },
   {
     "Player": "T.Y. Hilton IND (10)",
-    "Ballers Rank": 18,
+    "BallersRank": 18,
     "ADP": 3.05,
     "Projected Pts.": 248.33,
     "Risk": 2.67,
@@ -181,7 +181,7 @@
   },
   {
     "Player": "Jeremy Maclin KC (5)",
-    "Ballers Rank": 18,
+    "BallersRank": 18,
     "ADP": 4.09,
     "Projected Pts.": 246.23,
     "Risk": 2.17,
@@ -191,7 +191,7 @@
   },
   {
     "Player": "Jarvis Landry MIA (8)",
-    "Ballers Rank": 20,
+    "BallersRank": 20,
     "ADP": 4.03,
     "Projected Pts.": 242.17,
     "Risk": 3.33,
@@ -201,7 +201,7 @@
   },
   {
     "Player": "Golden Tate DET (10)",
-    "Ballers Rank": 21,
+    "BallersRank": 21,
     "ADP": 4.12,
     "Projected Pts.": 239.03,
     "Risk": 3.17,
@@ -211,7 +211,7 @@
   },
   {
     "Player": "Larry Fitzgerald ARI (9)",
-    "Ballers Rank": 22,
+    "BallersRank": 22,
     "ADP": 6.06,
     "Projected Pts.": 238.93,
     "Risk": 2.33,
@@ -221,7 +221,7 @@
   },
   {
     "Player": "Randall Cobb GB (4)",
-    "Ballers Rank": 23,
+    "BallersRank": 23,
     "ADP": 3.12,
     "Projected Pts.": 231.8,
     "Risk": 4.5,
@@ -231,7 +231,7 @@
   },
   {
     "Player": "Jordan Matthews PHI (4)",
-    "Ballers Rank": 23,
+    "BallersRank": 23,
     "ADP": 7.06,
     "Projected Pts.": 233.33,
     "Risk": 5.63,
@@ -241,7 +241,7 @@
   },
   {
     "Player": "Michael Floyd ARI (9)",
-    "Ballers Rank": 25,
+    "BallersRank": 25,
     "ADP": 5.03,
     "Projected Pts.": 229.9,
     "Risk": 4.33,
@@ -251,7 +251,7 @@
   },
   {
     "Player": "Eric Decker NYJ (11)",
-    "Ballers Rank": 26,
+    "BallersRank": 26,
     "ADP": 5.03,
     "Projected Pts.": 229.63,
     "Risk": 2.33,
@@ -261,7 +261,7 @@
   },
   {
     "Player": "Marvin Jones DET (10)",
-    "Ballers Rank": 26,
+    "BallersRank": 26,
     "ADP": 7.05,
     "Projected Pts.": 229.1,
     "Risk": 4.37,
@@ -271,7 +271,7 @@
   },
   {
     "Player": "Kelvin Benjamin CAR (7)",
-    "Ballers Rank": 28,
+    "BallersRank": 28,
     "ADP": 3.11,
     "Projected Pts.": 226.27,
     "Risk": 6.33,
@@ -281,7 +281,7 @@
   },
   {
     "Player": "Doug Baldwin SEA (5)",
-    "Ballers Rank": 29,
+    "BallersRank": 29,
     "ADP": 5.01,
     "Projected Pts.": 225,
     "Risk": 4.63,
@@ -291,7 +291,7 @@
   },
   {
     "Player": "John Brown ARI (9)",
-    "Ballers Rank": 30,
+    "BallersRank": 30,
     "ADP": 6.09,
     "Projected Pts.": 222.47,
     "Risk": 3.83,
@@ -301,7 +301,7 @@
   },
   {
     "Player": "Emmanuel Sanders DEN (11)",
-    "Ballers Rank": 31,
+    "BallersRank": 31,
     "ADP": 6.09,
     "Projected Pts.": 217.67,
     "Risk": 4,
@@ -311,7 +311,7 @@
   },
   {
     "Player": "Willie Snead NO (5)",
-    "Ballers Rank": 32,
+    "BallersRank": 32,
     "ADP": 10.06,
     "Projected Pts.": 215.67,
     "Risk": 5.03,
@@ -321,7 +321,7 @@
   },
   {
     "Player": "Michael Crabtree OAK (10)",
-    "Ballers Rank": 33,
+    "BallersRank": 33,
     "ADP": 8.08,
     "Projected Pts.": 216.8,
     "Risk": 3.7,
@@ -331,7 +331,7 @@
   },
   {
     "Player": "Donte Moncrief IND (10)",
-    "Ballers Rank": 34,
+    "BallersRank": 34,
     "ADP": 5.07,
     "Projected Pts.": 215,
     "Risk": 4.17,
@@ -341,7 +341,7 @@
   },
   {
     "Player": "DeSean Jackson WAS (9)",
-    "Ballers Rank": 35,
+    "BallersRank": 35,
     "ADP": 8.07,
     "Projected Pts.": 210,
     "Risk": 5.4,
@@ -351,7 +351,7 @@
   },
   {
     "Player": "Sterling Shepard NYG (8)",
-    "Ballers Rank": 36,
+    "BallersRank": 36,
     "ADP": 8.05,
     "Projected Pts.": 203.27,
     "Risk": 4.67,
@@ -361,7 +361,7 @@
   },
   {
     "Player": "DeVante Parker MIA (8)",
-    "Ballers Rank": 37,
+    "BallersRank": 37,
     "ADP": 7.12,
     "Projected Pts.": 205.53,
     "Risk": 6.63,
@@ -371,7 +371,7 @@
   },
   {
     "Player": "Tyler Lockett SEA (5)",
-    "Ballers Rank": 37,
+    "BallersRank": 37,
     "ADP": 7.01,
     "Projected Pts.": 211.83,
     "Risk": 4.8,
@@ -381,7 +381,7 @@
   },
   {
     "Player": "Kamar Aiken BAL (8)",
-    "Ballers Rank": 39,
+    "BallersRank": 39,
     "ADP": 10.08,
     "Projected Pts.": 203.33,
     "Risk": 4.33,
@@ -391,7 +391,7 @@
   },
   {
     "Player": "Allen Hurns JAC (5)",
-    "Ballers Rank": 40,
+    "BallersRank": 40,
     "ADP": 6.01,
     "Projected Pts.": 203.63,
     "Risk": 4.83,
@@ -401,7 +401,7 @@
   },
   {
     "Player": "Torrey Smith SF (8)",
-    "Ballers Rank": 41,
+    "BallersRank": 41,
     "ADP": 9.08,
     "Projected Pts.": 198.13,
     "Risk": 5.97,
@@ -411,7 +411,7 @@
   },
   {
     "Player": "Kevin White CHI (9)",
-    "Ballers Rank": 42,
+    "BallersRank": 42,
     "ADP": 8.05,
     "Projected Pts.": 193.03,
     "Risk": 5.7,
@@ -421,7 +421,7 @@
   },
   {
     "Player": "Stefon Diggs MIN (6)",
-    "Ballers Rank": 43,
+    "BallersRank": 43,
     "ADP": 9.02,
     "Projected Pts.": 177.23,
     "Risk": 5.53,
@@ -431,7 +431,7 @@
   },
   {
     "Player": "Mohamed Sanu ATL (11)",
-    "Ballers Rank": 44,
+    "BallersRank": 44,
     "ADP": 12.01,
     "Projected Pts.": 180.67,
     "Risk": 4.83,
@@ -441,7 +441,7 @@
   },
   {
     "Player": "Corey Coleman CLE (13)",
-    "Ballers Rank": 44,
+    "BallersRank": 44,
     "ADP": 9.08,
     "Projected Pts.": 179.2,
     "Risk": 5.5,
@@ -451,7 +451,7 @@
   },
   {
     "Player": "Vincent Jackson TB (6)",
-    "Ballers Rank": 46,
+    "BallersRank": 46,
     "ADP": 11.1,
     "Projected Pts.": 178,
     "Risk": 6.47,
@@ -461,7 +461,7 @@
   },
   {
     "Player": "Terrance Williams DAL (7)",
-    "Ballers Rank": 47,
+    "BallersRank": 47,
     "ADP": 14.06,
     "Projected Pts.": 178.57,
     "Risk": 4.17,
@@ -471,7 +471,7 @@
   },
   {
     "Player": "Rishard Matthews TEN (13)",
-    "Ballers Rank": 47,
+    "BallersRank": 47,
     "ADP": 12.12,
     "Projected Pts.": 178.33,
     "Risk": 5.3,
@@ -481,7 +481,7 @@
   },
   {
     "Player": "Josh Gordon CLE (13)",
-    "Ballers Rank": 49,
+    "BallersRank": 49,
     "ADP": 6.04,
     "Projected Pts.": 174.4,
     "Risk": 9.3,
@@ -491,7 +491,7 @@
   },
   {
     "Player": "Markus Wheaton PIT (8)",
-    "Ballers Rank": 50,
+    "BallersRank": 50,
     "ADP": 10.02,
     "Projected Pts.": 173.13,
     "Risk": 4,
@@ -501,7 +501,7 @@
   },
   {
     "Player": "Kendall Wright TEN (13)",
-    "Ballers Rank": 50,
+    "BallersRank": 50,
     "ADP": 0,
     "Projected Pts.": 171.87,
     "Risk": 4.3,
@@ -511,7 +511,7 @@
   },
   {
     "Player": "Devin Funchess CAR (7)",
-    "Ballers Rank": 52,
+    "BallersRank": 52,
     "ADP": 11.01,
     "Projected Pts.": 167,
     "Risk": 5.5,
@@ -521,7 +521,7 @@
   },
   {
     "Player": "Travis Benjamin SD (11)",
-    "Ballers Rank": 52,
+    "BallersRank": 52,
     "ADP": 9.11,
     "Projected Pts.": 167.83,
     "Risk": 5.17,
@@ -531,7 +531,7 @@
   },
   {
     "Player": "Laquon Treadwell MIN (6)",
-    "Ballers Rank": 54,
+    "BallersRank": 54,
     "ADP": 12.07,
     "Projected Pts.": 164.1,
     "Risk": 4.5,
@@ -541,7 +541,7 @@
   },
   {
     "Player": "Terrelle Pryor CLE (13)",
-    "Ballers Rank": 54,
+    "BallersRank": 54,
     "ADP": 13.07,
     "Projected Pts.": 166.5,
     "Risk": 7.67,
@@ -551,7 +551,7 @@
   },
   {
     "Player": "Phillip Dorsett IND (10)",
-    "Ballers Rank": 56,
+    "BallersRank": 56,
     "ADP": 12.12,
     "Projected Pts.": 157.2,
     "Risk": 5.63,
@@ -561,7 +561,7 @@
   },
   {
     "Player": "Rueben Randle PHI (4)",
-    "Ballers Rank": 57,
+    "BallersRank": 57,
     "ADP": 0,
     "Projected Pts.": 154.4,
     "Risk": 5.7,
@@ -571,7 +571,7 @@
   },
   {
     "Player": "Sammie Coates PIT (8)",
-    "Ballers Rank": 57,
+    "BallersRank": 57,
     "ADP": 11.05,
     "Projected Pts.": 150.37,
     "Risk": 6,
@@ -581,7 +581,7 @@
   },
   {
     "Player": "Tyler Boyd CIN (9)",
-    "Ballers Rank": 59,
+    "BallersRank": 59,
     "ADP": 12.11,
     "Projected Pts.": 155.77,
     "Risk": 6.03,
@@ -591,7 +591,7 @@
   },
   {
     "Player": "Chris Hogan NE (9)",
-    "Ballers Rank": 60,
+    "BallersRank": 60,
     "ADP": 14.02,
     "Projected Pts.": 146.33,
     "Risk": 6,
@@ -601,7 +601,7 @@
   },
   {
     "Player": "Tavon Austin LA (8)",
-    "Ballers Rank": 61,
+    "BallersRank": 61,
     "ADP": 11.05,
     "Projected Pts.": 150.17,
     "Risk": 4.83,
@@ -611,7 +611,7 @@
   },
   {
     "Player": "Pierre Garcon WAS (9)",
-    "Ballers Rank": 61,
+    "BallersRank": 61,
     "ADP": 0,
     "Projected Pts.": 133.57,
     "Risk": 6.7,
@@ -621,7 +621,7 @@
   },
   {
     "Player": "Will Fuller HOU (9)",
-    "Ballers Rank": 63,
+    "BallersRank": 63,
     "ADP": 0,
     "Projected Pts.": 141.43,
     "Risk": 7.2,
@@ -631,7 +631,7 @@
   },
   {
     "Player": "Dorial Green-Beckham PHI (4)",
-    "Ballers Rank": 64,
+    "BallersRank": 64,
     "ADP": 13.11,
     "Projected Pts.": 136.87,
     "Risk": 5.97,
@@ -641,7 +641,7 @@
   },
   {
     "Player": "Mike Wallace BAL (8)",
-    "Ballers Rank": 65,
+    "BallersRank": 65,
     "ADP": 13.11,
     "Projected Pts.": 142.4,
     "Risk": 7.33,
@@ -651,7 +651,7 @@
   },
   {
     "Player": "Nelson Agholor PHI (4)",
-    "Ballers Rank": 66,
+    "BallersRank": 66,
     "ADP": 0,
     "Projected Pts.": 130.67,
     "Risk": 5.7,
@@ -661,7 +661,7 @@
   },
   {
     "Player": "Bruce Ellington SF (8)",
-    "Ballers Rank": 67,
+    "BallersRank": 67,
     "ADP": 14.05,
     "Projected Pts.": 138,
     "Risk": 5,
@@ -671,7 +671,7 @@
   },
   {
     "Player": "Ted Ginn CAR (7)",
-    "Ballers Rank": 68,
+    "BallersRank": 68,
     "ADP": 14.04,
     "Projected Pts.": 132.03,
     "Risk": 5.3,
@@ -681,7 +681,7 @@
   },
   {
     "Player": "Brandon LaFell CIN (9)",
-    "Ballers Rank": 69,
+    "BallersRank": 69,
     "ADP": 0,
     "Projected Pts.": 109.67,
     "Risk": 5,
@@ -691,7 +691,7 @@
   },
   {
     "Player": "Andrew Hawkins CLE (13)",
-    "Ballers Rank": 69,
+    "BallersRank": 69,
     "ADP": 0,
     "Projected Pts.": 133.17,
     "Risk": 5,
@@ -701,7 +701,7 @@
   },
   {
     "Player": "Davante Adams GB (4)",
-    "Ballers Rank": 71,
+    "BallersRank": 71,
     "ADP": 0,
     "Projected Pts.": 130.97,
     "Risk": 7,
@@ -711,7 +711,7 @@
   },
   {
     "Player": "Steve Smith BAL (8)",
-    "Ballers Rank": 72,
+    "BallersRank": 72,
     "ADP": 11.01,
     "Projected Pts.": 128.67,
     "Risk": 8.37,
@@ -721,7 +721,7 @@
   },
   {
     "Player": "Danny Amendola NE (9)",
-    "Ballers Rank": 73,
+    "BallersRank": 73,
     "ADP": 0,
     "Projected Pts.": 119.67,
     "Risk": 6.67,
@@ -731,7 +731,7 @@
   },
   {
     "Player": "Josh Doctson WAS (9)",
-    "Ballers Rank": 73,
+    "BallersRank": 73,
     "ADP": 0,
     "Projected Pts.": 118.8,
     "Risk": 6,
@@ -741,7 +741,7 @@
   },
   {
     "Player": "",
-    "Ballers Rank": "",
+    "BallersRank": "",
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -751,7 +751,7 @@
   },
   {
     "Player": "Victor Cruz NYG (8)",
-    "Ballers Rank": 75,
+    "BallersRank": 75,
     "ADP": 0,
     "Projected Pts.": 85,
     "Risk": 8.5,
@@ -761,7 +761,7 @@
   },
   {
     "Player": "Michael Thomas NO (5)",
-    "Ballers Rank": 75,
+    "BallersRank": 75,
     "ADP": 10.07,
     "Projected Pts.": 111.1,
     "Risk": 6.7,
@@ -771,7 +771,7 @@
   },
   {
     "Player": "Jermaine Kearse SEA (5)",
-    "Ballers Rank": 77,
+    "BallersRank": 77,
     "ADP": 0,
     "Projected Pts.": 86.17,
     "Risk": 3.25,
@@ -781,7 +781,7 @@
   },
   {
     "Player": "Albert Wilson KC (5)",
-    "Ballers Rank": 77,
+    "BallersRank": 77,
     "ADP": 0,
     "Projected Pts.": 89.47,
     "Risk": 3,
@@ -791,7 +791,7 @@
   },
   {
     "Player": "Brandon Coleman NO (5)",
-    "Ballers Rank": 79,
+    "BallersRank": 79,
     "ADP": 0,
     "Projected Pts.": 104.17,
     "Risk": 6.83,
@@ -801,7 +801,7 @@
   },
   {
     "Player": "Jaelen Strong HOU (9)",
-    "Ballers Rank": 80,
+    "BallersRank": 80,
     "ADP": 0,
     "Projected Pts.": 102.8,
     "Risk": 7.33,
@@ -811,7 +811,7 @@
   },
   {
     "Player": "Anquan Boldin DET (10)",
-    "Ballers Rank": 81,
+    "BallersRank": 81,
     "ADP": 14.01,
     "Projected Pts.": 73.9,
     "Risk": 3,
@@ -821,7 +821,7 @@
   },
   {
     "Player": "Chris Conley KC (5)",
-    "Ballers Rank": 81,
+    "BallersRank": 81,
     "ADP": 0,
     "Projected Pts.": 75.27,
     "Risk": 4.5,
@@ -831,7 +831,7 @@
   },
   {
     "Player": "Breshad Perriman BAL (8)",
-    "Ballers Rank": 83,
+    "BallersRank": 83,
     "ADP": 0,
     "Projected Pts.": 71.03,
     "Risk": 6.97,
@@ -841,7 +841,7 @@
   },
   {
     "Player": "Eddie Royal CHI (9)",
-    "Ballers Rank": 84,
+    "BallersRank": 84,
     "ADP": 0,
     "Projected Pts.": 73.5,
     "Risk": 4.5,
@@ -851,7 +851,7 @@
   },
   {
     "Player": "Jamison Crowder WAS (9)",
-    "Ballers Rank": 85,
+    "BallersRank": 85,
     "ADP": 0,
     "Projected Pts.": 49.5,
     "Risk": 2,
@@ -861,7 +861,7 @@
   },
   {
     "Player": "",
-    "Ballers Rank": "",
+    "BallersRank": "",
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -871,7 +871,7 @@
   },
   {
     "Player": "Tajae Sharpe TEN (13)",
-    "Ballers Rank": 86,
+    "BallersRank": 86,
     "ADP": 13.1,
     "Projected Pts.": 88.5,
     "Risk": 5,
@@ -881,7 +881,7 @@
   },
   {
     "Player": "Jeff Janis GB (4)",
-    "Ballers Rank": 87,
+    "BallersRank": 87,
     "ADP": 0,
     "Projected Pts.": 59,
     "Risk": 7.37,
@@ -891,7 +891,7 @@
   },
   {
     "Player": "Cole Beasley DAL (7)",
-    "Ballers Rank": 87,
+    "BallersRank": 87,
     "ADP": 0,
     "Projected Pts.": 44.5,
     "Risk": 4,
@@ -901,7 +901,7 @@
   },
   {
     "Player": "Justin Hardy ATL (11)",
-    "Ballers Rank": 89,
+    "BallersRank": 89,
     "ADP": 0,
     "Projected Pts.": 59.2,
     "Risk": 4,
@@ -911,7 +911,7 @@
   },
   {
     "Player": "Steve Johnson SD (11)",
-    "Ballers Rank": 90,
+    "BallersRank": 90,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -921,7 +921,7 @@
   },
   {
     "Player": "Kenny Stills MIA (8)",
-    "Ballers Rank": 91,
+    "BallersRank": 91,
     "ADP": 0,
     "Projected Pts.": 31,
     "Risk": 5,
@@ -931,7 +931,7 @@
   },
   {
     "Player": "Malcolm Mitchell NE (9)",
-    "Ballers Rank": 92,
+    "BallersRank": 92,
     "ADP": 0,
     "Projected Pts.": 74.77,
     "Risk": 7.5,
@@ -941,7 +941,7 @@
   },
   {
     "Player": "Devin Smith NYJ (11)",
-    "Ballers Rank": 93,
+    "BallersRank": 93,
     "ADP": 0,
     "Projected Pts.": 28.17,
     "Risk": 5,
@@ -951,7 +951,7 @@
   },
   {
     "Player": "Ty Montgomery GB (4)",
-    "Ballers Rank": 94,
+    "BallersRank": 94,
     "ADP": 0,
     "Projected Pts.": 25.33,
     "Risk": 5,
@@ -961,7 +961,7 @@
   },
   {
     "Player": "Roddy White, FA",
-    "Ballers Rank": 95,
+    "BallersRank": 95,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -971,7 +971,7 @@
   },
   {
     "Player": "Malcom Floyd, FA",
-    "Ballers Rank": 96,
+    "BallersRank": 96,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -981,7 +981,7 @@
   },
   {
     "Player": "Cody Latimer DEN (11)",
-    "Ballers Rank": 96,
+    "BallersRank": 96,
     "ADP": 0,
     "Projected Pts.": 16.17,
     "Risk": 4,
@@ -991,7 +991,7 @@
   },
   {
     "Player": "Marques Colston, FA",
-    "Ballers Rank": 98,
+    "BallersRank": 98,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1001,7 +1001,7 @@
   },
   {
     "Player": "James Jones SD (11)",
-    "Ballers Rank": 99,
+    "BallersRank": 99,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1011,7 +1011,7 @@
   },
   {
     "Player": "Philly Brown CAR (7)",
-    "Ballers Rank": 100,
+    "BallersRank": 100,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1021,7 +1021,7 @@
   },
   {
     "Player": "Marqise Lee JAC (5)",
-    "Ballers Rank": 101,
+    "BallersRank": 101,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1031,7 +1031,7 @@
   },
   {
     "Player": "Kenny Britt LA (8)",
-    "Ballers Rank": 102,
+    "BallersRank": 102,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1041,7 +1041,7 @@
   },
   {
     "Player": "Brian Quick LA (8)",
-    "Ballers Rank": 103,
+    "BallersRank": 103,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1051,7 +1051,7 @@
   },
   {
     "Player": "Nate Washington, FA",
-    "Ballers Rank": 104,
+    "BallersRank": 104,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1061,7 +1061,7 @@
   },
   {
     "Player": "Cecil Shorts HOU (9)",
-    "Ballers Rank": 105,
+    "BallersRank": 105,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1071,7 +1071,7 @@
   },
   {
     "Player": "Andre Johnson TEN (13)",
-    "Ballers Rank": 106,
+    "BallersRank": 106,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1081,7 +1081,7 @@
   },
   {
     "Player": "Charles Johnson MIN (6)",
-    "Ballers Rank": 107,
+    "BallersRank": 107,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1091,7 +1091,7 @@
   },
   {
     "Player": "Jarius Wright MIN (6)",
-    "Ballers Rank": 108,
+    "BallersRank": 108,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1101,7 +1101,7 @@
   },
   {
     "Player": "Dwayne Bowe, FA",
-    "Ballers Rank": 109,
+    "BallersRank": 109,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1111,7 +1111,7 @@
   },
   {
     "Player": "Jerricho Cotchery, FA",
-    "Ballers Rank": 110,
+    "BallersRank": 110,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1121,7 +1121,7 @@
   },
   {
     "Player": "Reggie Wayne, FA",
-    "Ballers Rank": 111,
+    "BallersRank": 111,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1131,7 +1131,7 @@
   },
   {
     "Player": "Stedman Bailey, LA",
-    "Ballers Rank": 112,
+    "BallersRank": 112,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1141,7 +1141,7 @@
   },
   {
     "Player": "Greg Jennings, FA",
-    "Ballers Rank": 113,
+    "BallersRank": 113,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1151,7 +1151,7 @@
   },
   {
     "Player": "Taylor Gabriel CLE (13)",
-    "Ballers Rank": 114,
+    "BallersRank": 114,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1161,7 +1161,7 @@
   },
   {
     "Player": "Josh Huff PHI (4)",
-    "Ballers Rank": 115,
+    "BallersRank": 115,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1171,7 +1171,7 @@
   },
   {
     "Player": "Cordarrelle Patterson MIN (6)",
-    "Ballers Rank": 116,
+    "BallersRank": 116,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -1181,7 +1181,7 @@
   },
   {
     "Player": "Brian Hartline, FA",
-    "Ballers Rank": 117,
+    "BallersRank": 117,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
