@@ -36,6 +36,7 @@ var config = {
 	  	'app/app.config.js',
 	  	'app/*/scripts/*.module.js',
 	  	'app/*/scripts/*.js',
+	  	'app/*/directives/*.js',
 	  	'app/*/scripts/*.directive.js',
 	  	'!app/build/**/*',
 	  	'app/templates.js'

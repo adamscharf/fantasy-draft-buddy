@@ -10,6 +10,7 @@
     .module('app', [
     	'ui.router',
     	'app.core',
+    	'ngMaterial',
     	'example-feature',
     	'rankings'
     ]);
