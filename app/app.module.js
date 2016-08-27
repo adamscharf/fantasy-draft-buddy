@@ -7,10 +7,11 @@
   'use strict';
 
   angular
-    .module('fantasy-draft-buddy', [
+    .module('app', [
     	'ui.router',
-    	'fantasy-draft-buddy.core',
-    	'example-feature'
+    	'app.core',
+    	'example-feature',
+    	'rankings'
     ]);
 
 })();

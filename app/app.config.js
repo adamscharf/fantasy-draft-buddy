@@ -7,7 +7,7 @@
   'use strict';
 
   angular
-    .module('fantasy-draft-buddy')
+    .module('app')
     .run( sandboxRun);
 
 

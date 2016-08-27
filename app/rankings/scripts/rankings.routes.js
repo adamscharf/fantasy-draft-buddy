@@ -5,16 +5,16 @@
   'use strict';
 
   angular
-    .module('example-feature')
+    .module('rankings')
     .config(config);
 
     config.$inject = ['$stateProvider'];
     function config($stateProvider) {			
 			$stateProvider
-				.state('angular-starter', {
-					url: "/example-feature",
-					templateUrl: "example-feature/partials/feature.html",
-					controller: "featureController",
+				.state('rankings', {
+					url: "/",
+					templateUrl: "rankings/view/rankings.html",
+					controller: "rankingController",
 					controllerAs: 'vm'
 				});	
     }
