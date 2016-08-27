@@ -19,31 +19,25 @@ var gulp        = require('gulp'),
   connect       = require('gulp-connect'),
   concat        = require('gulp-concat'),
   sourcemaps    = require('gulp-sourcemaps'),
-  templateCache = require('gulp-angular-templatecache');
-  /*
-		<script src="../node_modules/angular/angular.js"></script>
-    <script src="../node_modules/angular-animate/angular-animate.js"></script>
-    <script src="../node_modules/angular-aria/angular-aria.js"></script>
-    <script type="text/javascript" src="../node_modules/angular-material/angular-material.js"></script>
-
-    <script src="./src/users/Users.js"></script>
-    <script src="./src/users/UserController.js"></script>
-    <script src="./src/users/UserService.js"></script>
-    */
+  templateCache = require('gulp-angular-templatecache'),
+  del 					= require('del');
 
 var config = {
-	appName: 'fantasy-draft-buddy',
+	appName: 'app',
 	sources: {
 	  scripts: [
 	  	'bower_components/angular/angular.js',
 	  	'bower_components/angular-ui-router/release/angular-ui-router.js',
 	  	'bower_components/angular-sanitize/angular-sanitize.js',
 	  	'bower_components/angular-animate/angular-animate.js',
+	  	'bower_components/angular-aria/angular-aria.js',
+	  	'bower_components/angular-material/angular-material.js',
 	  	'app/app.module.js',
 	  	'app/app.config.js',
 	  	'app/*/scripts/*.module.js',
-	  	'app/*/scripts/*.routes.js',
-	  	'app/*/scripts/*.controller.js',
+	  	'app/*/scripts/*.js',
+	  	'app/*/scripts/*.directive.js',
+	  	'!app/build/**/*',
 	  	'app/templates.js'
 	  ],
 	  fonts: [

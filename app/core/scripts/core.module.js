@@ -5,5 +5,5 @@
   	'use strict';
 
     angular
-      .module('fantasy-draft-buddy.core', []);
+      .module('app.core', []);
 })();

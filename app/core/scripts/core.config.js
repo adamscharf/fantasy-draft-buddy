@@ -3,7 +3,7 @@
  */
 (function() {
 	angular
-		.module('fantasy-draft-buddy.core')
+		.module('app.core')
 		.config(config);
 
 	config.$inject = ["$urlRouterProvider"];

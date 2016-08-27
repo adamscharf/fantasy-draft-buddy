@@ -1,20 +1,33 @@
 <!doctype html>
 <head>   
 
-	<title>fantasy-draft-buddy Application</title>
+	<title>Fantasy Draft Buddy</title>
 
 	<meta charset="UTF-8">
 	<!-- mobile meta tags -->
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="apple-mobile-web-app-status-bar-style" content="translucent">
-	<meta name="apple-mobile-web-app-title" content="">
-	  
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="">
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic'>
 	<link rel="stylesheet" href="build/app.css">
+	<style type="text/css">
+	  /**
+	   * Hide when Angular is not yet loaded and initialized
+	   */
+	  [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+	    display: none !important;
+	  }
+  </style>
 
    
 </head>
-<body ng-app="fantasy-draft-buddy">
+<body ng-app="app">
+	<md-toolbar layout="row">
+    <md-button class="menu" hide-gt-sm ng-click="ul.toggleList()" aria-label="Show User List">
+      <md-icon md-svg-icon="menu" ></md-icon>
+    </md-button>
+    <h1>Angular Material - Starter App</h1>
+  </md-toolbar>
 	<div class="container">
 		<!-- Define where partials get inserted by UI-Router -->
 		<ui-view></ui-view>
