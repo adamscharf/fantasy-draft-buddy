@@ -13,7 +13,7 @@
       <div md-virtual-repeat="player in vm.players | filter:vm.user" ng-click="vm.click(player)" class="md-3-line repeated-item" flex=""  layout="column" >
         <div class="repeated-item-text" layout="column">
           <h3>{{ player.Player }}<span ng-show="vm.tiers"> -- <strong>{{ player.Tier }}</strong></span></h3>
-          <h4>Rank: {{ player.BallersRank }} | ADP: {{ player.ADP }} | Risk | {{ player.Risk }}</h4>
+          <h4>Rank: {{ player.BallersRank }} | ADP: {{ player.ADP }} | Risk: {{ player.Risk }}</h4>
           <p ng-show="vm.showNotes">{{ player.Notes }}</p>
         </div>
       </div>
