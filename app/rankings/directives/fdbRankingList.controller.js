@@ -11,8 +11,8 @@
    * @param avatarsService
    * @constructor
    */
-  fdbRankingListController.$inject = ['LISTS', 'SCORING', 'RankingService', '$log', '$scope'];
-  function fdbRankingListController( LISTS, SCORING, RankingService, $log, $scope ) {
+  fdbRankingListController.$inject = ['LISTS', 'SCORING', 'EVENTS', 'RankingService', '$log', '$scope', '$timeout'];
+  function fdbRankingListController( LISTS, SCORING, EVENTS, RankingService, $log, $scope, $timeout ) {
     var vm = this;
 
     vm.players = []
@@ -34,18 +34,20 @@
       });
     };
 
+    $scope.$on(EVENTS.SCORING_CHANGED, function () {
+      $timeout(function() {
+        loadList();
+      });
+    });
+
     function loadList() {
-      var list = listToLoad();
-      $log.debug(list);
+      var list = getListToLoad();
       return RankingService.loadList(list).then(function success(data) {
-        vm.players = data;
+        return vm.players = data;
       });
     };
 
-    function listToLoad() {
-      $log.debug("receptionFormat: " + vm.receptionFormat);
-      $log.debug("qbFormat: " + vm.qbFormat);
-      $log.debug("abrev: " + vm.abrev);
+    function getListToLoad() {
       switch (vm.receptionFormat) {
         case SCORING.FULL_PPR:
           if (vm.abrev === "WR") {

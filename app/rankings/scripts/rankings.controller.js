@@ -11,15 +11,15 @@
    * @param avatarsService
    * @constructor
    */
-  rankingController.$inject = ['LISTS', 'SCORING', 'RankingService', '$log', '$mdDialog'];
-  function rankingController( LISTS, SCORING, RankingService, $log, $mdDialog ) {
+  rankingController.$inject = ['SCORING', 'EVENTS', 'RankingService', '$log', '$mdDialog', '$rootScope', '$scope'];
+  function rankingController( SCORING, EVENTS, RankingService, $log, $mdDialog, $rootScope, $scope) {
     var vm = this;
 
-    vm.LISTS = LISTS;
     vm.showNotes = false;
     vm.receptionValue = {};
     vm.tiers = true;
     vm.scoringConfig = {};
+    vm.scoringChanged = scoringChanged;
 
     vm.qbFormat = SCORING.SIX_PT_TD;
     vm.receptionFormat = SCORING.FULL_PPR;
@@ -53,6 +53,10 @@
           .ok('Yes, I have purchased it')
           .targetEvent(ev)
       );
+    };
+
+    function scoringChanged() {
+      $rootScope.$broadcast(EVENTS.SCORING_CHANGED);
     };
 
     vm.scoringConfig = {
