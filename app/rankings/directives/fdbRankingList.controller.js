@@ -17,6 +17,7 @@
 
     vm.players = []
     vm.click = click;
+    vm.user = {};
 
     // console.log('CTRL: vm.min = %s', vm.min);
     // console.log('CTRL: vm.list = %s', vm.list);
@@ -86,6 +87,7 @@
       var index = vm.players.indexOf(player);
       if (index > -1) {
         vm.players.splice(index, 1);
+        vm.user.Player = "";
       }
     };
 
