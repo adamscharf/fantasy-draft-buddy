@@ -23,7 +23,7 @@
 
 
     function loadList(list) {
-      return $http.get("rankings/resources/" + list)
+      return $http.get("resources/" + list)
         .then(loadListSucceeded, loadListFailed);
 
       function loadListSucceeded(r) {

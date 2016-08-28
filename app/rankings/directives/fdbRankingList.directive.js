@@ -11,7 +11,7 @@ angular
 function fdbRankingList() {
 	var directive = {
       	restrict: 'EA',
-        templateUrl: '/rankings/directives/single-list.html',
+        templateUrl: 'rankings/view/single-list.html',
         scope: {
           title: '=',
           abrev: '=',
