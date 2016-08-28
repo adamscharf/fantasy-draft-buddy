@@ -13,8 +13,12 @@ function fdbRankingList() {
       	restrict: 'EA',
         templateUrl: '/rankings/directives/single-list.html',
         scope: {
-          list: '=',
-          name: '='
+          title: '=',
+          abrev: '=',
+          tiers: '=',
+          showNotes: '=',
+          receptionFormat: '=',
+          qbFormat: '='
         },
         link: linkFunc,
         controller: 'fdbRankingListController',
