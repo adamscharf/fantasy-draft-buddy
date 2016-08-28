@@ -1,7 +1,54 @@
 /*------------------------------------*\
     Main Styles
 \*------------------------------------*/
-// .container {
-// 	width: 1140px;
-// 	padding: 10px;
-// }
+.container {
+	padding-left: 2vw;
+}
+.repeated-item {
+  border-bottom: 1px solid #ddd;
+  box-sizing: border-box;
+  padding: 5px;
+  min-height: 60px
+}
+.repeated-item:hover{
+  background-color: rgba(158,158,158,0.2);
+  cursor: pointer;
+}
+.fdb-button {
+  position: relative;
+  cursor: pointer;
+  line-height: 36px;
+  box-sizing: border-box;
+  user-select: none;
+  outline: none;
+  background: transparent;
+  color: currentColor;
+  transition: box-shadow 0.4s cubic-bezier(0.25, 0.8, 0.25, 1), background-color 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+#vertical-container {
+  height: 80vh;
+  width: 24vw;
+}
+.repeated-item-text h3 {
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.010em;
+  margin: 0 0 0px 0;
+  line-height: 1.2em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.repeated-item-text h4 {
+  font-size: 14px;
+  letter-spacing: 0.010em;
+  margin: 3px 0 1px 0;
+  font-weight: 400;
+  line-height: 1.2em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.search-box {
+  margin-bottom: 0;
+}

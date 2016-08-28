@@ -4,16 +4,19 @@
       <span>{{ vm.title }}</span>
     </div>
   </md-toolbar>
+  <md-input-container class="md-block search-box" flex-gt-sm="">
+        <label>Search Player Name</label>
+        <input ng-model="vm.user.Player">
+      </md-input-container>
   <md-content>
-    <md-list flex="">
-      <md-list-item class="md-3-line" ng-repeat="player in vm.players" ng-click="vm.click(player)">
-        <div class="md-list-item-text" layout="column">
+    <md-virtual-repeat-container id="vertical-container">
+      <div md-virtual-repeat="player in vm.players | filter:vm.user" ng-click="vm.click(player)" class="md-3-line repeated-item" flex=""  layout="column" >
+        <div class="repeated-item-text" layout="column">
           <h3>{{ player.Player }}<span ng-show="vm.tiers"> -- <strong>{{ player.Tier }}</strong></span></h3>
           <h4>Rank: {{ player.BallersRank }} | ADP: {{ player.ADP }} | Risk | {{ player.Risk }}</h4>
           <p ng-show="vm.showNotes">{{ player.Notes }}</p>
         </div>
-        <md-divider></md-divider>
-      </md-list-item>
-    </md-list>
+      </div>
+    </md-virtual-repeat-container>
   </md-content>
 </div>
