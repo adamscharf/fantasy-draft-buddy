@@ -11,14 +11,12 @@
    * @param avatarsService
    * @constructor
    */
-  fdbRankingListController.$inject = ['LISTS', 'RankingService', '$log', '$scope'];
-  function fdbRankingListController( LISTS, RankingService, $log, $scope ) {
+  fdbRankingListController.$inject = ['LISTS', 'SCORING', 'RankingService', '$log', '$scope'];
+  function fdbRankingListController( LISTS, SCORING, RankingService, $log, $scope ) {
     var vm = this;
 
     vm.players = []
     vm.click = click;
-
-    vm.min = 3;
 
     // console.log('CTRL: vm.min = %s', vm.min);
     // console.log('CTRL: vm.list = %s', vm.list);
@@ -31,15 +29,55 @@
 
     function activate() {
       // vm.list is passed into directive element
-      return loadList(vm.list).then(function success(){
-        $log.info(vm.name + " Loaded");
+      return loadList().then(function success(){
+        $log.info(vm.title + " Loaded");
       });
     };
 
-    function loadList(list) {
+    function loadList() {
+      var list = listToLoad();
+      $log.debug(list);
       return RankingService.loadList(list).then(function success(data) {
         vm.players = data;
       });
+    };
+
+    function listToLoad() {
+      $log.debug("receptionFormat: " + vm.receptionFormat);
+      $log.debug("qbFormat: " + vm.qbFormat);
+      $log.debug("abrev: " + vm.abrev);
+      switch (vm.receptionFormat) {
+        case SCORING.FULL_PPR:
+          if (vm.abrev === "WR") {
+            return LISTS.WR_FULL_PPR_TIERS;
+          } else if (vm.abrev === "RB") {
+            return LISTS.RB_FULL_PPR_TIERS;
+          } else {
+            return LISTS.TE_FULL_PPR_TIERS;
+          }
+          break;
+        case SCORING.HALF_PPR:
+          if (vm.abrev === "WR") {
+            return LISTS.WR_HALF_PPR_TIERS;
+          } else if (vm.abrev === "RB") {
+            return LISTS.RB_HALF_PPR_TIERS;
+          } else {
+            return LISTS.TE_HALF_PPR_TIERS;
+          }
+          break;
+        case SCORING.STANDARD:
+          if (vm.abrev === "WR") {
+            return LISTS.WR_STD_TIERS;
+          } else if (vm.abrev === "RB") {
+            return LISTS.RB_STD_TIERS;
+          } else {
+            return LISTS.TE_STD_TIERS;
+          }
+          break;
+        default:
+          // Must be a QB
+          return (vm.qbFormat === SCORING.STANDARD) ? LISTS.QB_FOUR_POINT_TIERS : LISTS.QB_SIX_POINT_TIERS;
+      }
     };
 
     function click(player) {

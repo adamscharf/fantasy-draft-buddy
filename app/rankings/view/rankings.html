@@ -1,9 +1,35 @@
+<md-input-container>
+  <label>Reception Scoring Format</label>
+  <md-select ng-model="vm.receptionFormat">
+    <md-option ng-repeat="item in vm.scoringConfig.receptionFormat" ng-value="item.value">
+      {{item.label}}
+    </md-option>
+  </md-select>
+</md-input-container>
+<md-input-container>
+  <label>QB Scoring Format</label>
+  <md-select ng-model="vm.qbFormat">
+    <md-option ng-repeat="item in vm.scoringConfig.qbFormat" ng-value="item.value">
+      {{item.label}}
+    </md-option>
+  </md-select>
+</md-input-container>
+<md-checkbox ng-model="vm.showNotes" aria-label="Show Notes Section">
+	Show Notes Section?
+</md-checkbox>
+<md-checkbox ng-model="vm.tiers" aria-label="Tiers">
+	Tiers
+</md-checkbox>
+
 <div layout-gt-sm="row" layout="column">
-	<fdb-ranking-list name="'Wide Receivers'" list="vm.LISTS.WR_FULL_PPR_TIERS"></fdb-ranking-list>
 	<md-divider></md-divider>
-	<fdb-ranking-list name="'Running Backs'" list="vm.LISTS.RB_FULL_PPR_TIERS"></fdb-ranking-list>
+	<fdb-ranking-list title="'Wide Receivers'" abrev="'WR'" tiers="vm.tiers" show-notes="vm.showNotes" reception-format="vm.receptionFormat"></fdb-ranking-list>
 	<md-divider></md-divider>
-	<fdb-ranking-list name="'Quarterbacks'" list="vm.LISTS.QB_SIX_POINT_TIERS"></fdb-ranking-list>
+	<fdb-ranking-list title="'Running Backs'" abrev="'RB'" tiers="vm.tiers" show-notes="vm.showNotes" config="vm.config" reception-format="vm.receptionFormat"></fdb-ranking-list>
 	<md-divider></md-divider>
-	<fdb-ranking-list name="'Tight Ends'" list="vm.LISTS.TE_FULL_PPR_TIERS"></fdb-ranking-list>
+	<fdb-ranking-list title="'Quarterbacks'" abrev="'QB'" tiers="vm.tiers" show-notes="vm.showNotes" config="vm.config" qb-format="vm.qbFormat"></fdb-ranking-list>
+	<md-divider></md-divider>
+	<fdb-ranking-list title="'Tight Ends'" abrev="'TE'" tiers="vm.tiers" show-notes="vm.showNotes" config="vm.config" reception-format="vm.receptionFormat"></fdb-ranking-list>
+	<md-divider></md-divider>
 </div>
+
