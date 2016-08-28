@@ -28,7 +28,7 @@ function fdbRankingList() {
 	return directive;
 
 	function linkFunc(scope, el, attrs, vm) {
-        // console.log('LINK: vm.min = %s', vm.min);
-        // console.log('LINK: vm.list = %s', vm.list);
+    // console.log('LINK: vm.min = %s', vm.min);
+    // console.log('LINK: vm.list = %s', vm.list);
 	}
 }

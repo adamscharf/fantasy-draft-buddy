@@ -1,6 +1,6 @@
 <md-input-container style="width: 200px">
   <label>Reception Scoring Format</label>
-  <md-select ng-model="vm.receptionFormat">
+  <md-select ng-model="vm.receptionFormat" ng-change="vm.scoringChanged()">
     <md-option ng-repeat="item in vm.scoringConfig.receptionFormat" ng-value="item.value">
       {{item.label}}
     </md-option>
@@ -8,7 +8,7 @@
 </md-input-container>
 <md-input-container style="width: 200px">
   <label>QB Scoring Format</label>
-  <md-select ng-model="vm.qbFormat">
+  <md-select ng-model="vm.qbFormat" ng-change="vm.scoringChanged()">
     <md-option ng-repeat="item in vm.scoringConfig.qbFormat" ng-value="item.value">
       {{item.label}}
     </md-option>

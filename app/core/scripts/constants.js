@@ -2,7 +2,7 @@
   'use strict';
 	
 	angular
-    .module('rankings')
+    .module('app.core')
     .constant('LISTS', {
       // QB's
       QB_SIX_POINT_TIERS: 'qb_6pt_tiers.json',
@@ -26,5 +26,8 @@
       STANDARD: 'STANDARD',
       SIX_PT_TD: "SIX_PT_TD"
 
+    })
+    .constant('EVENTS', {
+      SCORING_CHANGED: 'SCORING_CHANGED'
     }); 
 })();
