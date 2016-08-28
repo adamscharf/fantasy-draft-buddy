@@ -140,18 +140,8 @@
     "Notes": "#DeflateGate! With Brady now suspended for 4 games, he's going to be an overbearing burden on a small bench. Remember, 4 games is nearly 30% of the regular season for most fantasy leagues. But, if you have a large bench (6 or more) and he falls into double digit rounds, he could become a steal."
   },
   {
-    "Player": "Tony Romo DAL (7)",
-    "BallersRank": 15,
-    "ADP": 10.02,
-    "Projected Pts.": 329.38,
-    "Risk": 5.17,
-    "Tier": "TIER 5",
-    "Vid": "",
-    "Notes": "Always underrated for real football and fantasy. Romo was a league winner in 2014. If his collarbones can hold up, he will yet again provide late round value, but will have some lower scoring weeks during the season."
-  },
-  {
     "Player": "Matthew Stafford DET (10)",
-    "BallersRank": 16,
+    "BallersRank": 15,
     "ADP": 11.02,
     "Projected Pts.": 332.74,
     "Risk": 4.47,
@@ -161,7 +151,7 @@
   },
   {
     "Player": "Derek Carr OAK (10)",
-    "BallersRank": 17,
+    "BallersRank": 16,
     "ADP": 9.07,
     "Projected Pts.": 331.68,
     "Risk": 4.3,
@@ -171,7 +161,7 @@
   },
   {
     "Player": "Tyrod Taylor BUF (10)",
-    "BallersRank": 18,
+    "BallersRank": 17,
     "ADP": 10.1,
     "Projected Pts.": 328,
     "Risk": 7.03,
@@ -180,18 +170,8 @@
     "Notes": "Does Buffalo believe in T-Mobile? He wasn't the most consistent fantasy QB, but the threat of his legs and the 2nd half breakout of Sammy Watkins makes Taylor an intriguing fantasy QB for next season."
   },
   {
-    "Player": "Matt Ryan ATL (11)",
-    "BallersRank": 18,
-    "ADP": 12.05,
-    "Projected Pts.": 325.77,
-    "Risk": 3.43,
-    "Tier": "TIER 5",
-    "Vid": "",
-    "Notes": "He was bad last year...wasn't he? Surprisingly right in the zone for attempts and yards, it was the touchdowns that tanked Ryan's fantasy value. He is a candidate to emerge in his 2nd year in the Kyle Shanahan system, but is definitely a drafter beware."
-  },
-  {
     "Player": "Kirk Cousins WAS (9)",
-    "BallersRank": 20,
+    "BallersRank": 18,
     "ADP": 10.04,
     "Projected Pts.": 326.3,
     "Risk": 5.73,
@@ -200,8 +180,18 @@
     "Notes": "Will the real Kirk Cousins please stand up? 1st half of the season, ho hum. 2nd half of the season, carrying fantasy players to a title. He seems to ride the wave of his confidence so watch his first few games closely. If he starts hot, get on the train. Faceplants Week 1? Jump off. He's basically the QB version of Groundhog Day."
   },
   {
+    "Player": "Matt Ryan ATL (11)",
+    "BallersRank": 19,
+    "ADP": 12.05,
+    "Projected Pts.": 321.77,
+    "Risk": 3.43,
+    "Tier": "TIER 5",
+    "Vid": "",
+    "Notes": "He was bad last year...wasn't he? Surprisingly right in the zone for attempts and yards, it was the touchdowns that tanked Ryan's fantasy value. He is a candidate to emerge in his 2nd year in the Kyle Shanahan system, but is definitely a drafter beware."
+  },
+  {
     "Player": "Marcus Mariota TEN (13)",
-    "BallersRank": 21,
+    "BallersRank": 20,
     "ADP": 13.02,
     "Projected Pts.": 316.33,
     "Risk": 6.17,
@@ -211,7 +201,7 @@
   },
   {
     "Player": "Ryan Tannehill MIA (8)",
-    "BallersRank": 22,
+    "BallersRank": 21,
     "ADP": 14.02,
     "Projected Pts.": 309.83,
     "Risk": 6.43,
@@ -220,18 +210,8 @@
     "Notes": "Oh what could have been with Ryan T?? He actually improved his efficiency and total passing yards, but the big jump never came. On top of that the rushing yards went way down. Adam Gase is coming to town and has coached Peyton and Jay Cutler to some of their best years. It's a longer shot, but it's still possible for Tannehill...maybe...kinda"
   },
   {
-    "Player": "Colin Kaepernick SF (8)",
-    "BallersRank": 23,
-    "ADP": 0,
-    "Projected Pts.": 313,
-    "Risk": 8,
-    "Tier": "TIER 6",
-    "Vid": "",
-    "Notes": "Will Kappy be the man? Or will it be Blaine Gabbert? CK is still coming off of surgery but there were whispers from the bushes that new coach Chip Kelly really likes him. He has the tools to run Chip's system to a high level, does he have the mind for it?"
-  },
-  {
     "Player": "Jay Cutler CHI (9)",
-    "BallersRank": 24,
+    "BallersRank": 22,
     "ADP": 0,
     "Projected Pts.": 307.83,
     "Risk": 5.03,
@@ -241,7 +221,7 @@
   },
   {
     "Player": "Alex Smith KC (5)",
-    "BallersRank": 25,
+    "BallersRank": 24,
     "ADP": 0,
     "Projected Pts.": 294.19,
     "Risk": 2,
@@ -251,7 +231,7 @@
   },
   {
     "Player": "Joe Flacco BAL (8)",
-    "BallersRank": 26,
+    "BallersRank": 25,
     "ADP": 0,
     "Projected Pts.": 288.74,
     "Risk": 3.73,
@@ -260,10 +240,20 @@
     "Notes": "The Ravens led the league in pass attempts in 2015. You did not read that wrong. Likely a product of a bad defense, but Marc Trestman is still there. If any of the WRs can step up, Flacco will have his streaming moments."
   },
   {
+    "Player": "Colin Kaepernick SF (8)",
+    "BallersRank": 26,
+    "ADP": 0,
+    "Projected Pts.": 236.83,
+    "Risk": 8,
+    "Tier": "TIER 6",
+    "Vid": "",
+    "Notes": "Will Kappy be the man? Or will it be Blaine Gabbert? CK is still coming off of surgery but there were whispers from the bushes that new coach Chip Kelly really likes him. He has the tools to run Chip's system to a high level, does he have the mind for it?"
+  },
+  {
     "Player": "Robert Griffin CLE (13)",
-    "BallersRank": 27,
+    "BallersRank": 23,
     "ADP": 14.04,
-    "Projected Pts.": 276.71,
+    "Projected Pts.": 292.71,
     "Risk": 7.37,
     "Tier": "TIER 7",
     "Vid": "",
@@ -271,7 +261,7 @@
   },
   {
     "Player": "Brock Osweiler HOU (9)",
-    "BallersRank": 28,
+    "BallersRank": 27,
     "ADP": 0,
     "Projected Pts.": 274.95,
     "Risk": 6.53,
@@ -281,7 +271,7 @@
   },
   {
     "Player": "Mark Sanchez DEN (11)",
-    "BallersRank": 29,
+    "BallersRank": 28,
     "ADP": 0,
     "Projected Pts.": 260.67,
     "Risk": 8,
@@ -291,7 +281,7 @@
   },
   {
     "Player": "Blaine Gabbert SF (8)",
-    "BallersRank": 30,
+    "BallersRank": 29,
     "ADP": 0,
     "Projected Pts.": 217.57,
     "Risk": 6.83,
@@ -301,7 +291,7 @@
   },
   {
     "Player": "Sam Bradford PHI (4)",
-    "BallersRank": 31,
+    "BallersRank": 30,
     "ADP": 0,
     "Projected Pts.": 250.2,
     "Risk": 8.7,
@@ -311,7 +301,7 @@
   },
   {
     "Player": "Teddy Bridgewater MIN (6)",
-    "BallersRank": 31,
+    "BallersRank": 30,
     "ADP": 0,
     "Projected Pts.": 248.33,
     "Risk": 3.43,
@@ -321,7 +311,7 @@
   },
   {
     "Player": "Jared Goff LA (8)",
-    "BallersRank": 33,
+    "BallersRank": 32,
     "ADP": 0,
     "Projected Pts.": 173.17,
     "Risk": 5.83,
@@ -330,8 +320,28 @@
     "Notes": "The Rams paid the Iron Price to move up for Goff. It cleary will remain to be seen if that price was worth it in the next few years. But for fantasy football this year, Goff has to near hands off. A rookie QB coming in to play for Jeff Fisher, a coach that hasn't produced a top half offense in almost a decade, won't lead to fantasy points."
   },
   {
-    "Player": "Case Keenum LA (8)",
+    "Player": "Tony Romo DAL (7)",
+    "BallersRank": 33,
+    "ADP": 10.02,
+    "Projected Pts.": 172.93,
+    "Risk": 7.67,
+    "Tier": "TIER 7",
+    "Vid": "",
+    "Notes": "As of Aug 27, Romo has been injured and is likely to miss the first half of the season and maybe more.  He's no longer on the draft radar, and can be monitored as a mid-season pickup."
+  },
+  {
+    "Player": "Dak Prescott DAL (7)",
     "BallersRank": 34,
+    "ADP": 0,
+    "Projected Pts.": 98.33,
+    "Risk": 6.5,
+    "Tier": "TIER 7",
+    "Vid": "",
+    "Notes": "Dak has had a great preseason and now will be thrust into the starting QB roll with Tony Romo's injury. More than likely, Dak will be in for a rude awakening when he realizes real games have very different defenses than preseason games. He shouldn't be drafted except in dynasty leagues but is worth keeping our eyes on."
+  },
+  {
+    "Player": "Case Keenum LA (8)",
+    "BallersRank": 35,
     "ADP": 0,
     "Projected Pts.": 59.17,
     "Risk": 9,
@@ -341,7 +351,7 @@
   },
   {
     "Player": "Brian Hoyer CHI (9)",
-    "BallersRank": 35,
+    "BallersRank": 36,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -351,7 +361,7 @@
   },
   {
     "Player": "Carson Wentz PHI (4)",
-    "BallersRank": 36,
+    "BallersRank": 37,
     "ADP": 0,
     "Projected Pts.": 29.67,
     "Risk": 7,
@@ -361,7 +371,7 @@
   },
   {
     "Player": "Nick Foles KC (5)",
-    "BallersRank": 37,
+    "BallersRank": 38,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -371,7 +381,7 @@
   },
   {
     "Player": "Josh McCown CLE (13)",
-    "BallersRank": 38,
+    "BallersRank": 39,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -381,7 +391,7 @@
   },
   {
     "Player": "Paxton Lynch DEN (11)",
-    "BallersRank": 38,
+    "BallersRank": 39,
     "ADP": 0,
     "Projected Pts.": 16.33,
     "Risk": 9,
@@ -391,7 +401,7 @@
   },
   {
     "Player": "Geno Smith NYJ (11)",
-    "BallersRank": 40,
+    "BallersRank": 41,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,

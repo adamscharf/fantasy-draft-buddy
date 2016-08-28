@@ -160,28 +160,8 @@
     "Notes": "Remember when Stafford threw for over 5000 yards and was the next big thing in QBs? That was so awesome...5 years ago. To be fair, Stafford has been quietly ok for fantasy players, not great, and now you throw in the loss of Calvin \"Megatron\" Johnson. Some value here, but meh."
   },
   {
-    "Player": "Matt Ryan ATL (11)",
-    "BallersRank": 17,
-    "ADP": 12.05,
-    "Projected Pts.": 268.44,
-    "Risk": 3.43,
-    "Tier": "TIER 5",
-    "Vid": "",
-    "Notes": "He was bad last year...wasn't he? Surprisingly right in the zone for attempts and yards, it was the touchdowns that tanked Ryan's fantasy value. He is a candidate to emerge in his 2nd year in the Kyle Shanahan system, but is definitely a drafter beware."
-  },
-  {
-    "Player": "Marcus Mariota TEN (13)",
-    "BallersRank": 18,
-    "ADP": 13.02,
-    "Projected Pts.": 266.33,
-    "Risk": 6.17,
-    "Tier": "TIER 5",
-    "Vid": "",
-    "Notes": "Was quite efficient last year before the injury, on pace for around 4000 yards. A dynamic playmaker that could find himself buried for fantasy underneath the \"exotic smashmouth\" style of football his \"head coach\" wants to play."
-  },
-  {
     "Player": "Derek Carr OAK (10)",
-    "BallersRank": 19,
+    "BallersRank": 17,
     "ADP": 9.07,
     "Projected Pts.": 271.68,
     "Risk": 4.3,
@@ -190,8 +170,28 @@
     "Notes": "Was surprisingly solid for a stretch of last season. Could be a surprise of the year if Amari Cooper takes the next step and Crabtree continues to return to form."
   },
   {
+    "Player": "Marcus Mariota TEN (13)",
+    "BallersRank": 17,
+    "ADP": 13.02,
+    "Projected Pts.": 266.33,
+    "Risk": 6.17,
+    "Tier": "TIER 5",
+    "Vid": "",
+    "Notes": "Was quite efficient last year before the injury, on pace for around 4000 yards. A dynamic playmaker that could find himself buried for fantasy underneath the \"exotic smashmouth\" style of football his \"head coach\" wants to play."
+  },
+  {
+    "Player": "Matt Ryan ATL (11)",
+    "BallersRank": 19,
+    "ADP": 12.05,
+    "Projected Pts.": 265.77,
+    "Risk": 3.43,
+    "Tier": "TIER 5",
+    "Vid": "",
+    "Notes": "He was bad last year...wasn't he? Surprisingly right in the zone for attempts and yards, it was the touchdowns that tanked Ryan's fantasy value. He is a candidate to emerge in his 2nd year in the Kyle Shanahan system, but is definitely a drafter beware."
+  },
+  {
     "Player": "Kirk Cousins WAS (9)",
-    "BallersRank": 20,
+    "BallersRank": 19,
     "ADP": 10.04,
     "Projected Pts.": 268.97,
     "Risk": 5.73,
@@ -200,18 +200,8 @@
     "Notes": "Will the real Kirk Cousins please stand up? 1st half of the season, ho hum. 2nd half of the season, carrying fantasy players to a title. He seems to ride the wave of his confidence so watch his first few games closely. If he starts hot, get on the train. Faceplants Week 1? Jump off. He's basically the QB version of Groundhog Day."
   },
   {
-    "Player": "Colin Kaepernick SF (8)",
-    "BallersRank": 21,
-    "ADP": 0,
-    "Projected Pts.": 268.33,
-    "Risk": 8,
-    "Tier": "TIER 6",
-    "Vid": "",
-    "Notes": "Will Kappy be the man? Or will it be Blaine Gabbert? CK is still coming off of surgery but there were whispers from the bushes that new coach Chip Kelly really likes him. He has the tools to run Chip's system to a high level, does he have the mind for it?"
-  },
-  {
     "Player": "Ryan Tannehill MIA (8)",
-    "BallersRank": 22,
+    "BallersRank": 21,
     "ADP": 14.02,
     "Projected Pts.": 259.17,
     "Risk": 6.43,
@@ -221,7 +211,7 @@
   },
   {
     "Player": "Jay Cutler CHI (9)",
-    "BallersRank": 23,
+    "BallersRank": 22,
     "ADP": 0,
     "Projected Pts.": 256.5,
     "Risk": 5.03,
@@ -250,10 +240,20 @@
     "Notes": "Alex Smith is the epitome of 'if you ain't first, you're last' in fantasy football. Because he either gives you a solid QB1 performance, or he tanks your week. As always, in the right matchup Alex Smith gives your team a chance to win."
   },
   {
-    "Player": "Robert Griffin CLE (13)",
+    "Player": "Colin Kaepernick SF (8)",
     "BallersRank": 26,
+    "ADP": 0,
+    "Projected Pts.": 204.17,
+    "Risk": 8,
+    "Tier": "TIER 6",
+    "Vid": "",
+    "Notes": "Will Kappy be the man? Or will it be Blaine Gabbert? CK is still coming off of surgery but there were whispers from the bushes that new coach Chip Kelly really likes him. He has the tools to run Chip's system to a high level, does he have the mind for it?"
+  },
+  {
+    "Player": "Robert Griffin CLE (13)",
+    "BallersRank": 23,
     "ADP": 14.04,
-    "Projected Pts.": 236.05,
+    "Projected Pts.": 248.71,
     "Risk": 7.37,
     "Tier": "TIER 7",
     "Vid": "",
@@ -333,7 +333,7 @@
     "Player": "Dak Prescott DAL (7)",
     "BallersRank": 34,
     "ADP": 0,
-    "Projected Pts.": 72.67,
+    "Projected Pts.": 83.67,
     "Risk": 6.5,
     "Tier": "TIER 7",
     "Vid": "",
