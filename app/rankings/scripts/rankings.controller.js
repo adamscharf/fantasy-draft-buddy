@@ -16,7 +16,7 @@
     var vm = this;
 
     vm.LISTS = LISTS;
-    vm.showNotes = true;
+    vm.showNotes = false;
     vm.receptionValue = {};
     vm.tiers = true;
     vm.scoringConfig = {};
