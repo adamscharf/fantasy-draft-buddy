@@ -240,18 +240,8 @@
     "Notes": "Ladarius Green is now dealing with a very murky situation. It's reported that he is dealing with headaches still from a concussion last season. It's not good. It's hands off at this point and he could even be heading the IR."
   },
   {
-    "Player": "Benjamin Watson BAL (8)",
-    "BallersRank": 24,
-    "ADP": 0,
-    "Projected Pts.": 123.67,
-    "Risk": 4.53,
-    "Tier": "TIER 8",
-    "Vid": "",
-    "Notes": "We love Benjamin Watson. He's a great dude, with a great story, and we're happy for him to have had the year he had with the Saints last year. Heck, we're even happy he was able to turn that into a new contract with the Ravens. But his fantasy value came from the system and the QB he had last year. At 35 years old, he's going to a team that has a young stud TE in Maxx Williams and serviceable TE \"Betty\" Crockett Gillmore. He'll be used to block and mentor the young guys, not to produce for fantasy owners. Draft him only as a good luck charm, not a player."
-  },
-  {
     "Player": "Jared Cook GB (4)",
-    "BallersRank": 24,
+    "BallersRank": 25,
     "ADP": 13.09,
     "Projected Pts.": 120.83,
     "Risk": 5.03,
@@ -261,7 +251,7 @@
   },
   {
     "Player": "Austin Seferian-Jenkins TB (6)",
-    "BallersRank": 27,
+    "BallersRank": 26,
     "ADP": 0,
     "Projected Pts.": 107.67,
     "Risk": 5.33,
@@ -271,7 +261,7 @@
   },
   {
     "Player": "Maxx Williams BAL (8)",
-    "BallersRank": 28,
+    "BallersRank": 27,
     "ADP": 0,
     "Projected Pts.": 115.43,
     "Risk": 5,
@@ -281,7 +271,7 @@
   },
   {
     "Player": "Jimmy Graham SEA (5)",
-    "BallersRank": 29,
+    "BallersRank": 28,
     "ADP": 10.03,
     "Projected Pts.": 63.53,
     "Risk": 9.55,
@@ -291,13 +281,23 @@
   },
   {
     "Player": "Richard Rodgers GB (4)",
-    "BallersRank": 30,
+    "BallersRank": 29,
     "ADP": 0,
     "Projected Pts.": 75.9,
     "Risk": 5.03,
     "Tier": "TIER 9",
     "Vid": "",
     "Notes": "Managed to swindle his way to being a TE1 last year. Mostly on the heels of touchdowns, and specifically a one legendary hailmary play that will haunt the dreams of Lions fans to eternity. His production was erratic at best. He is still young. But the Packers brought in Jared Cook during the offseason. It would be a shock to see Rodgers do much of anything for fantasy this year."
+  },
+  {
+    "Player": "Benjamin Watson BAL (8)",
+    "BallersRank": 30,
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 4.53,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": "We love Benjamin Watson. He's a great dude, with a great story, and we're happy for him to have had the year he had with the Saints last year. Heck, we're even happy he was able to turn that into a new contract with the Ravens. But his fantasy value came from the system and the QB he had last year. At 35 years old, he's going to a team that has a young stud TE in Maxx Williams and serviceable TE \"Betty\" Crockett Gillmore. He'll be used to block and mentor the young guys, not to produce for fantasy owners. Draft him only as a good luck charm, not a player."
   },
   {
     "Player": "Vernon Davis WAS (9)",
@@ -400,6 +400,16 @@
     "Notes": ""
   },
   {
+    "Player": "Hunter Henry SD (11)",
+    "BallersRank": 41,
+    "ADP": 0,
+    "Projected Pts.": 25,
+    "Risk": 6,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
     "Player": "Austin Hooper ATL (11)",
     "BallersRank": 41,
     "ADP": 0,
@@ -411,20 +421,10 @@
   },
   {
     "Player": "Mychal Rivera OAK (10)",
-    "BallersRank": 42,
+    "BallersRank": 43,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 5,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Hunter Henry SD (11)",
-    "BallersRank": 42,
-    "ADP": 0,
-    "Projected Pts.": 25,
-    "Risk": 6,
     "Tier": "TIER 9",
     "Vid": "",
     "Notes": ""

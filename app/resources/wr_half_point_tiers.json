@@ -70,18 +70,8 @@
     "Notes": "The talent level of Hopkins can't possibly be questioned at this point. But there was a very clear shift in the Texans team as a whole, halfway through the year. After the debacle against Miami, the Texans defense really turned around, so did the team's rushing yards. Despite losing Foster, the 2nd half of the year the team averaged 110.5 yards a game on the ground compared to 88. Game script turned around for them. Hopkins' numbers took a noticeable dip during this time, and now they throw in the unproven Brock Osweiler. All that said, Hopkins is certainly a WR1, but maybe more of a top-10 guy than a top-5."
   },
   {
-    "Player": "Dez Bryant DAL (7)",
-    "BallersRank": 8,
-    "ADP": 1.1,
-    "Projected Pts.": 229.53,
-    "Risk": 4.83,
-    "Tier": "TIER 2",
-    "Vid": "",
-    "Notes": "The dreams of Dez last season, destroyed by a Jones fracture. His foot has now seen multiple injuries in a short time. That's not to say he cannot come back, Julio Jones has been a beast after dealing with the same injury. The previous three seasons before 2015, Dez finished as a top-6 WR. He's nearly a lock for double-digit TDs if he plays a full season. Dez is unlikely to ever get the gaudy target volume of Julio or Brown, but his efficiency and TD scoring overcome that shortcoming."
-  },
-  {
     "Player": "Mike Evans TB (6)",
-    "BallersRank": 9,
+    "BallersRank": 8,
     "ADP": 2.09,
     "Projected Pts.": 227.63,
     "Risk": 4.33,
@@ -91,13 +81,23 @@
   },
   {
     "Player": "Alshon Jeffery CHI (9)",
-    "BallersRank": 10,
+    "BallersRank": 9,
     "ADP": 3.02,
     "Projected Pts.": 229.43,
     "Risk": 3.87,
     "Tier": "TIER 2",
     "Vid": "",
     "Notes": "Big things were expected from Alshon last year. His soft muscle tissue chose not to fulfill these fantasy wishes. Despite playing only nine games and being hobbled in a lot of them, Jeffery had over 90 targets and over 800 yards. That had him on a pace for a career year. All while playing through injuries that even the most casual football fan would be able to notice. Alshon does have competition coming this year in the form of Kevin White. White hasn't played a single snap of professional football. Jeffery played full seasons the previous two years. Let the recency bias be someone else's problem, Jeffery is a beast."
+  },
+  {
+    "Player": "Dez Bryant DAL (7)",
+    "BallersRank": 10,
+    "ADP": 1.1,
+    "Projected Pts.": 222.53,
+    "Risk": 4.83,
+    "Tier": "TIER 2",
+    "Vid": "",
+    "Notes": "The dreams of Dez last season, destroyed by a Jones fracture. His foot has now seen multiple injuries in a short time. That's not to say he cannot come back, Julio Jones has been a beast after dealing with the same injury. The previous three seasons before 2015, Dez finished as a top-6 WR. He's nearly a lock for double-digit TDs if he plays a full season. Dez is unlikely to ever get the gaudy target volume of Julio or Brown, but his efficiency and TD scoring overcome that shortcoming."
   },
   {
     "Player": "Demaryius Thomas DEN (11)",
@@ -110,18 +110,8 @@
     "Notes": "Thomas had set such a high expectation from fantasy owners. Despite catching over 100 passes for over 1300 yards, he felt disappointing. Enter the power of the touchdown! Thomas went from from averaging 12 scores over the last three years, to only six. This production drop relegated him outside of the WR1 in standard scoring. The good news for Thomas, it can't get much worse than the quarterback play he received from Brock Osweiler and Pey-done Manning. The bad news, it appears Thomas should expect a lateral movement in QB play with 'Butt Fumble' Mark Sanchez or rookie Paxton Lynch throwing him the ball. Thomas is still a top talent, but expections should be along the lines of last year."
   },
   {
-    "Player": "Keenan Allen SD (11)",
-    "BallersRank": 11,
-    "ADP": 2.09,
-    "Projected Pts.": 220.13,
-    "Risk": 3.1,
-    "Tier": "TIER 3",
-    "Vid": "",
-    "Notes": "At the end of Week 7, Keenan Allen was the overall WR5. In five of those seven games he had double-digit targets. He was able to be the WR5 despite having only three touchdowns at that point. It all came crashing to a halt the next week as he lacerated his kidney on a TD grab. There's no injury concern for Allen heading into 2016. If the target volume can continue, not a ton of reason to believe it can't, then Allen will be a draft steal. The downside compared to the other top WRs is Allen doesn't provide a ton of big plays, he's reliant on that volume."
-  },
-  {
     "Player": "Jordy Nelson GB (4)",
-    "BallersRank": 13,
+    "BallersRank": 12,
     "ADP": 2.06,
     "Projected Pts.": 216.03,
     "Risk": 4.67,
@@ -138,6 +128,16 @@
     "Tier": "TIER 3",
     "Vid": "",
     "Notes": "The beginning of the year was riddled with injuries and high variance performances from Sammy. Eventually, the ankle healed up, and the chemistry with Tyrod Taylor lit up. From Week 12 through Week 17 Watkins was the overall WR3, outperforming the likes of Antonio Brown, Allen Robinson, Julio Jones, and Odell Beckham. The red flag would be the extremely low volume with which he succeeded. He averaged under six catches a game in that dominant stretch. The talent is there, but Rex Ryan's scheme could prevent Sammy from consistent top level fantasy production."
+  },
+  {
+    "Player": "Keenan Allen SD (11)",
+    "BallersRank": 13,
+    "ADP": 2.09,
+    "Projected Pts.": 215.13,
+    "Risk": 3.1,
+    "Tier": "TIER 3",
+    "Vid": "",
+    "Notes": "At the end of Week 7, Keenan Allen was the overall WR5. In five of those seven games he had double-digit targets. He was able to be the WR5 despite having only three touchdowns at that point. It all came crashing to a halt the next week as he lacerated his kidney on a TD grab. There's no injury concern for Allen heading into 2016. If the target volume can continue, not a ton of reason to believe it can't, then Allen will be a draft steal. The downside compared to the other top WRs is Allen doesn't provide a ton of big plays, he's reliant on that volume."
   },
   {
     "Player": "Brandin Cooks NO (5)",
@@ -183,7 +183,7 @@
     "Player": "Jeremy Maclin KC (5)",
     "BallersRank": 19,
     "ADP": 4.09,
-    "Projected Pts.": 201.07,
+    "Projected Pts.": 199.4,
     "Risk": 2.17,
     "Tier": "TIER 4",
     "Vid": "",
@@ -230,18 +230,8 @@
     "Notes": "A true PPR machine last year, Landry was the go to WR in Miami seeing 165 targets come his way. The Dolphins did clear the coaching house over the offseason, so it remains to be seen if Landry will see that volume type again under Adam Gase. However, even with a slight dip Landry is still a very solid option. It's pretty special when a player can have only four TDs and finish as a WR1. He's very likely to return value on his draft price."
   },
   {
-    "Player": "Jordan Matthews PHI (4)",
-    "BallersRank": 23,
-    "ADP": 7.06,
-    "Projected Pts.": 191.67,
-    "Risk": 5.63,
-    "Tier": "TIER 5",
-    "Vid": "",
-    "Notes": "Matthews had high expectations from a lot of fantasy players last season. He did finish as a WR2. He also won the prestigious 'Garbage Man' Footie award from the FootClan. Matthews had a much better 2nd half of the year, similar to his QB Sam Bradford. We have a chicken/egg situation between those two. It could all be for nothing as the Eagles 'took it to the limit' and drafted Carson Wentz. A lot of speculation is floating around if Matthews will continue to man the slot or if he will move outside. The upside exists, the ADP value will likely be there, but the production may not be."
-  },
-  {
     "Player": "Eric Decker NYJ (11)",
-    "BallersRank": 25,
+    "BallersRank": 24,
     "ADP": 5.03,
     "Projected Pts.": 190.63,
     "Risk": 2.33,
@@ -251,7 +241,7 @@
   },
   {
     "Player": "Golden Tate DET (10)",
-    "BallersRank": 26,
+    "BallersRank": 24,
     "ADP": 4.12,
     "Projected Pts.": 193.03,
     "Risk": 3.17,
@@ -260,10 +250,20 @@
     "Notes": "Golden Tate has seen has reception volume spike since moving to Detroit and now Calvin Johnson has announced his retirement. Despite the 90 catches Tate had last year, it was a bit of an anomalous year. He only averaged 9.0 yards per catch, the worst of his career. Until last season, he had never been under 10.8 and he had averaged a little over 14 yards per catch the previous three seasons. Tate seems like a lock for at least 100 receptions and could easily finish the year as a strong WR2."
   },
   {
+    "Player": "Jordan Matthews PHI (4)",
+    "BallersRank": 24,
+    "ADP": 7.06,
+    "Projected Pts.": 191.67,
+    "Risk": 5.63,
+    "Tier": "TIER 5",
+    "Vid": "",
+    "Notes": "Matthews had high expectations from a lot of fantasy players last season. He did finish as a WR2. He also won the prestigious 'Garbage Man' Footie award from the FootClan. Matthews had a much better 2nd half of the year, similar to his QB Sam Bradford. We have a chicken/egg situation between those two. It could all be for nothing as the Eagles 'took it to the limit' and drafted Carson Wentz. A lot of speculation is floating around if Matthews will continue to man the slot or if he will move outside. The upside exists, the ADP value will likely be there, but the production may not be."
+  },
+  {
     "Player": "Marvin Jones DET (10)",
-    "BallersRank": 27,
+    "BallersRank": 24,
     "ADP": 7.05,
-    "Projected Pts.": 188.6,
+    "Projected Pts.": 190.27,
     "Risk": 4.37,
     "Tier": "TIER 5",
     "Vid": "",
@@ -301,23 +301,13 @@
   },
   {
     "Player": "DeSean Jackson WAS (9)",
-    "BallersRank": 31,
+    "BallersRank": 30,
     "ADP": 8.07,
-    "Projected Pts.": 178.17,
+    "Projected Pts.": 182.17,
     "Risk": 5.4,
     "Tier": "TIER 6",
     "Vid": "",
     "Notes": "DJax was coming off the best fantasy stretch of his career. Injuries basically destroyed his 2015 season. As of now, drafters are forgetting how effective he was before the injuries, letting him plummet in drafts. Absolutely he's still the boom/bust player, but DJax finds a way to boom more than most. He basically played eight full games, and scored in four of them. Cousins isn't afraid to let it rip down the field to Jackson, he's averaging over 19 yards per catch in his two seasons in Washington. He's shaping up to be a draft day value."
-  },
-  {
-    "Player": "Emmanuel Sanders DEN (11)",
-    "BallersRank": 32,
-    "ADP": 6.09,
-    "Projected Pts.": 177.67,
-    "Risk": 4,
-    "Tier": "TIER 6",
-    "Vid": "",
-    "Notes": "Sanders saw a hefty dip in his production. This shouldn't come as a huge surprise considering he was coming off a career season and dealt with Manning's underwhelming throws and the inexperienced BO. He still managed over 1000 yards for the second year in a row. Sanders is extremely difficult to forecast coming into 2016. He's the second option on a team with anticipatedly bad QB play, though he dealt with that last year. But it also wouldn't be that surprising to see the Broncos move heavier in their run to pass ratio."
   },
   {
     "Player": "Donte Moncrief IND (10)",
@@ -328,6 +318,16 @@
     "Tier": "TIER 6",
     "Vid": "",
     "Notes": "Moncrief started the year hot with touchdowns in five of the first seven games. But the breakout dream died shortly after, along with the Colts' offense. Luck was horrible and injured. Hasselbeck did the best he could while the offensive line let him be destroyed on a weekly basis. Luckily Moncrief is still flying mostly under the radar for fantasy players, but the upside is real. If Luck is going to be a stud for fantasy, Moncrief will absolutely be a part of it."
+  },
+  {
+    "Player": "Emmanuel Sanders DEN (11)",
+    "BallersRank": 33,
+    "ADP": 6.09,
+    "Projected Pts.": 177.67,
+    "Risk": 4,
+    "Tier": "TIER 6",
+    "Vid": "",
+    "Notes": "Sanders saw a hefty dip in his production. This shouldn't come as a huge surprise considering he was coming off a career season and dealt with Manning's underwhelming throws and the inexperienced BO. He still managed over 1000 yards for the second year in a row. Sanders is extremely difficult to forecast coming into 2016. He's the second option on a team with anticipatedly bad QB play, though he dealt with that last year. But it also wouldn't be that surprising to see the Broncos move heavier in their run to pass ratio."
   },
   {
     "Player": "DeVante Parker MIA (8)",
@@ -411,7 +411,7 @@
   },
   {
     "Player": "Torrey Smith SF (8)",
-    "BallersRank": 41,
+    "BallersRank": 42,
     "ADP": 9.08,
     "Projected Pts.": 166.63,
     "Risk": 5.97,
