@@ -11,7 +11,6 @@
     	'ui.router',
     	'app.core',
     	'ngMaterial',
-    	'example-feature',
     	'rankings'
     ]);
 

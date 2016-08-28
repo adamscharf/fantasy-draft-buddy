@@ -34,7 +34,7 @@
 
     function activate() {
       // return loadList(LISTS.WR_FULL_PPR_TIERS).then(function success(){
-        // showAlert();
+        showAlert();
         $log.info("Ranking Controller Loaded");
       // });
     };

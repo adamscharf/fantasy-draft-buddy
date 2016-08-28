@@ -9,6 +9,6 @@
 	config.$inject = ["$urlRouterProvider"];
 	function config($urlRouterProvider) {
 		// for all unmatched routes
-    $urlRouterProvider.otherwise("/");
+    $urlRouterProvider.otherwise("/fantasy-draft-buddy");
   }
 })();

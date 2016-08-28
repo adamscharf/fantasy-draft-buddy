@@ -12,7 +12,7 @@
     function config($stateProvider) {			
 			$stateProvider
 				.state('rankings', {
-					url: "/",
+					url: "/fantasy-draft-buddy",
 					templateUrl: "rankings/view/rankings.html",
 					controller: "rankingController",
 					controllerAs: 'vm'
