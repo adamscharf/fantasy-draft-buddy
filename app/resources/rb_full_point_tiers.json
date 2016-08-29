@@ -2,7 +2,7 @@
   {
     "Player": "David Johnson ARI (9)",
     "BallersRank": 1,
-    "ADP": 1.05,
+    "ADP": 1.04,
     "Projected Pts.": 273.7,
     "Risk": 4.83,
     "Tier": "TIER 1",
@@ -12,7 +12,7 @@
   {
     "Player": "Le'Veon Bell PIT (8)",
     "BallersRank": 2,
-    "ADP": 1.11,
+    "ADP": 1.1,
     "Projected Pts.": 262.53,
     "Risk": 4.73,
     "Tier": "TIER 1",
@@ -42,7 +42,7 @@
   {
     "Player": "Todd Gurley LA (8)",
     "BallersRank": 5,
-    "ADP": 1.04,
+    "ADP": 1.03,
     "Projected Pts.": 256.97,
     "Risk": 3.33,
     "Tier": "TIER 1",
@@ -62,7 +62,7 @@
   {
     "Player": "Adrian Peterson MIN (6)",
     "BallersRank": 7,
-    "ADP": 1.06,
+    "ADP": 1.05,
     "Projected Pts.": 243,
     "Risk": 2.17,
     "Tier": "TIER 2",
@@ -72,7 +72,7 @@
   {
     "Player": "Ezekiel Elliott DAL (7)",
     "BallersRank": 8,
-    "ADP": 1.09,
+    "ADP": 1.07,
     "Projected Pts.": 240.1,
     "Risk": 3.37,
     "Tier": "TIER 2",
@@ -82,7 +82,7 @@
   {
     "Player": "Devonta Freeman ATL (11)",
     "BallersRank": 9,
-    "ADP": 2.06,
+    "ADP": 2.07,
     "Projected Pts.": 241.17,
     "Risk": 5.9,
     "Tier": "TIER 2",
@@ -92,7 +92,7 @@
   {
     "Player": "Mark Ingram NO (5)",
     "BallersRank": 10,
-    "ADP": 2.1,
+    "ADP": 2.11,
     "Projected Pts.": 242.17,
     "Risk": 2.5,
     "Tier": "TIER 2",
@@ -102,7 +102,7 @@
   {
     "Player": "Doug Martin TB (6)",
     "BallersRank": 11,
-    "ADP": 2.12,
+    "ADP": 3.01,
     "Projected Pts.": 223.53,
     "Risk": 4,
     "Tier": "TIER 3",
@@ -112,7 +112,7 @@
   {
     "Player": "Eddie Lacy GB (4)",
     "BallersRank": 12,
-    "ADP": 2.05,
+    "ADP": 2.04,
     "Projected Pts.": 220.67,
     "Risk": 4.73,
     "Tier": "TIER 3",
@@ -122,7 +122,7 @@
   {
     "Player": "Latavius Murray OAK (10)",
     "BallersRank": 13,
-    "ADP": 3.09,
+    "ADP": 3.08,
     "Projected Pts.": 210.17,
     "Risk": 4.83,
     "Tier": "TIER 3",
@@ -132,7 +132,7 @@
   {
     "Player": "Danny Woodhead SD (11)",
     "BallersRank": 14,
-    "ADP": 8.01,
+    "ADP": 7.12,
     "Projected Pts.": 203.67,
     "Risk": 3.63,
     "Tier": "TIER 3",
@@ -142,7 +142,7 @@
   {
     "Player": "Ryan Mathews PHI (4)",
     "BallersRank": 15,
-    "ADP": 5.09,
+    "ADP": 5.05,
     "Projected Pts.": 203.47,
     "Risk": 4.8,
     "Tier": "TIER 4",
@@ -152,7 +152,7 @@
   {
     "Player": "C.J. Anderson DEN (11)",
     "BallersRank": 16,
-    "ADP": 3.07,
+    "ADP": 3.05,
     "Projected Pts.": 197.3,
     "Risk": 5.9,
     "Tier": "TIER 4",
@@ -162,7 +162,7 @@
   {
     "Player": "DeMarco Murray TEN (13)",
     "BallersRank": 16,
-    "ADP": 4.01,
+    "ADP": 4.03,
     "Projected Pts.": 194.53,
     "Risk": 3.67,
     "Tier": "TIER 4",
@@ -171,8 +171,8 @@
   },
   {
     "Player": "Jeremy Langford CHI (9)",
-    "BallersRank": 18,
-    "ADP": 4.09,
+    "BallersRank": 19,
+    "ADP": 4.08,
     "Projected Pts.": 190.03,
     "Risk": 6.9,
     "Tier": "TIER 4",
@@ -180,19 +180,9 @@
     "Notes": "The tape is lacking, but the opportunity won't be. Langford volumed his way to a stretch of fantasy awesomeness last year while Matt Forte was injured. The Bears did add Jordan Howard in the draft, and some see him as a workload threat. As of now, Langford is set to prove that opportunity can can outweigh talent for fantasy."
   },
   {
-    "Player": "Thomas Rawls SEA (5)",
-    "BallersRank": 19,
-    "ADP": 3.06,
-    "Projected Pts.": 187.3,
-    "Risk": 6.2,
-    "Tier": "TIER 4",
-    "Vid": "",
-    "Notes": "The NFL draft wasn't as kind to Rawls as it could have been. Over the offseason, Rawls was thought to be the heir to BeastMode. But the Seahawks invested a few draft picks in C.J. Prosise and Alex Collins. And Christine Michael has had a #Awakening according the coaching staff and our eyeballs watching him in the preseason. Rawls is shaping up as a very high risk pick in the 3rd, but if he can replicate last season, that's a pretty delicious reward."
-  },
-  {
     "Player": "Giovani Bernard CIN (9)",
-    "BallersRank": 19,
-    "ADP": 7.04,
+    "BallersRank": 20,
+    "ADP": 6.12,
     "Projected Pts.": 193.17,
     "Risk": 2.7,
     "Tier": "TIER 4",
@@ -200,9 +190,19 @@
     "Notes": "Gio had a strange season last year. He came out magma hot, capitalizing on the slow start of Jeremy Hill. But then his usage became erratic and couldn't really be counted on. Gio is a PPR stud and is solid for Standard as well. Lots of owners get scared off of true timeshare RBs, use their fear to get a great fantasy player."
   },
   {
-    "Player": "Jonathan Stewart CAR (7)",
+    "Player": "Thomas Rawls SEA (5)",
     "BallersRank": 21,
-    "ADP": 4.1,
+    "ADP": 3.09,
+    "Projected Pts.": 187.3,
+    "Risk": 6.2,
+    "Tier": "TIER 4",
+    "Vid": "",
+    "Notes": "The NFL draft wasn't as kind to Rawls as it could have been. Over the offseason, Rawls was thought to be the heir to BeastMode. But the Seahawks invested a few draft picks in C.J. Prosise and Alex Collins. And Christine Michael has had a #Awakening according the coaching staff and our eyeballs watching him in the preseason. Rawls is shaping up as a very high risk pick in the 3rd, but if he can replicate last season, that's a pretty delicious reward."
+  },
+  {
+    "Player": "Jonathan Stewart CAR (7)",
+    "BallersRank": 22,
+    "ADP": 4.11,
     "Projected Pts.": 187.43,
     "Risk": 4.03,
     "Tier": "TIER 4",
@@ -211,8 +211,8 @@
   },
   {
     "Player": "Carlos Hyde SF (8)",
-    "BallersRank": 22,
-    "ADP": 4.02,
+    "BallersRank": 23,
+    "ADP": 4.01,
     "Projected Pts.": 187.97,
     "Risk": 5.07,
     "Tier": "TIER 4",
@@ -221,8 +221,8 @@
   },
   {
     "Player": "Matt Forte NYJ (11)",
-    "BallersRank": 22,
-    "ADP": 4.04,
+    "BallersRank": 23,
+    "ADP": 4.05,
     "Projected Pts.": 186.37,
     "Risk": 6.03,
     "Tier": "TIER 4",
@@ -231,8 +231,8 @@
   },
   {
     "Player": "Duke Johnson CLE (13)",
-    "BallersRank": 24,
-    "ADP": 7.03,
+    "BallersRank": 25,
+    "ADP": 7.04,
     "Projected Pts.": 186.57,
     "Risk": 2.7,
     "Tier": "TIER 4",
@@ -241,8 +241,8 @@
   },
   {
     "Player": "Jeremy Hill CIN (9)",
-    "BallersRank": 25,
-    "ADP": 4.07,
+    "BallersRank": 26,
+    "ADP": 4.01,
     "Projected Pts.": 181.1,
     "Risk": 4.87,
     "Tier": "TIER 4",
@@ -251,9 +251,9 @@
   },
   {
     "Player": "Melvin Gordon SD (11)",
-    "BallersRank": 26,
-    "ADP": 5.09,
-    "Projected Pts.": 184.3,
+    "BallersRank": 18,
+    "ADP": 5.08,
+    "Projected Pts.": 188.73,
     "Risk": 5.37,
     "Tier": "TIER 5",
     "Vid": "",
@@ -262,7 +262,7 @@
   {
     "Player": "T.J. Yeldon JAC (5)",
     "BallersRank": 27,
-    "ADP": 8.1,
+    "ADP": 8.05,
     "Projected Pts.": 183.2,
     "Risk": 4.13,
     "Tier": "TIER 5",
@@ -272,7 +272,7 @@
   {
     "Player": "Arian Foster MIA (8)",
     "BallersRank": 28,
-    "ADP": 5.06,
+    "ADP": 5.04,
     "Projected Pts.": 183.53,
     "Risk": 7.73,
     "Tier": "TIER 5",
@@ -281,8 +281,8 @@
   },
   {
     "Player": "Frank Gore IND (10)",
-    "BallersRank": 29,
-    "ADP": 6.06,
+    "BallersRank": 28,
+    "ADP": 6.04,
     "Projected Pts.": 178.87,
     "Risk": 3.13,
     "Tier": "TIER 5",
@@ -292,7 +292,7 @@
   {
     "Player": "Matt Jones WAS (9)",
     "BallersRank": 30,
-    "ADP": 5.11,
+    "ADP": 6.01,
     "Projected Pts.": 176.6,
     "Risk": 5,
     "Tier": "TIER 5",
@@ -302,7 +302,7 @@
   {
     "Player": "Theo Riddick DET (10)",
     "BallersRank": 31,
-    "ADP": 12.04,
+    "ADP": 12.09,
     "Projected Pts.": 176.6,
     "Risk": 2.93,
     "Tier": "TIER 5",
@@ -312,7 +312,7 @@
   {
     "Player": "Charles Sims TB (6)",
     "BallersRank": 32,
-    "ADP": 9.02,
+    "ADP": 9.04,
     "Projected Pts.": 173.57,
     "Risk": 2.77,
     "Tier": "TIER 5",
@@ -322,7 +322,7 @@
   {
     "Player": "Ameer Abdullah DET (10)",
     "BallersRank": 33,
-    "ADP": 7.09,
+    "ADP": 7.07,
     "Projected Pts.": 168.17,
     "Risk": 4.5,
     "Tier": "TIER 5",
@@ -332,7 +332,7 @@
   {
     "Player": "DeAngelo Williams PIT (8)",
     "BallersRank": 34,
-    "ADP": 6.02,
+    "ADP": 6.01,
     "Projected Pts.": 162.37,
     "Risk": 2.5,
     "Tier": "TIER 5",
@@ -342,7 +342,7 @@
   {
     "Player": "Bilal Powell  NYJ (11)",
     "BallersRank": 35,
-    "ADP": 9.09,
+    "ADP": 10.02,
     "Projected Pts.": 160.63,
     "Risk": 3.83,
     "Tier": "TIER 6",
@@ -352,7 +352,7 @@
   {
     "Player": "Rashad Jennings NYG (8)",
     "BallersRank": 36,
-    "ADP": 7.01,
+    "ADP": 6.07,
     "Projected Pts.": 150.83,
     "Risk": 5.5,
     "Tier": "TIER 6",
@@ -362,7 +362,7 @@
   {
     "Player": "Isaiah Crowell CLE (13)",
     "BallersRank": 36,
-    "ADP": 9.05,
+    "ADP": 8.06,
     "Projected Pts.": 161.6,
     "Risk": 2.93,
     "Tier": "TIER 6",
@@ -372,7 +372,7 @@
   {
     "Player": "Justin Forsett BAL (8)",
     "BallersRank": 38,
-    "ADP": 7.12,
+    "ADP": 8.05,
     "Projected Pts.": 156.37,
     "Risk": 5.7,
     "Tier": "TIER 6",
@@ -382,7 +382,7 @@
   {
     "Player": "Darren Sproles PHI (4)",
     "BallersRank": 39,
-    "ADP": 13.08,
+    "ADP": 12.1,
     "Projected Pts.": 151.88,
     "Risk": 5.83,
     "Tier": "TIER 6",
@@ -392,7 +392,7 @@
   {
     "Player": "James White NE (9)",
     "BallersRank": 40,
-    "ADP": 0,
+    "ADP": 10.05,
     "Projected Pts.": 151.17,
     "Risk": 6,
     "Tier": "TIER 6",
@@ -402,7 +402,7 @@
   {
     "Player": "Chris Ivory JAC (5)",
     "BallersRank": 41,
-    "ADP": 6.04,
+    "ADP": 6.05,
     "Projected Pts.": 149.17,
     "Risk": 4.37,
     "Tier": "TIER 6",
@@ -420,16 +420,6 @@
     "Notes": "It was feast or famine with the passing down specialist. His contract suggests the Giants will keep him around and give him another shot. The biggest value Vereen could bring to a fantasy owner, is having a few good games on their bench and building value to be part of a trade. He can't be trusted."
   },
   {
-    "Player": "Derrick Henry TEN (13)",
-    "BallersRank": 49,
-    "ADP": 7.11,
-    "Projected Pts.": 112.87,
-    "Risk": 4.7,
-    "Tier": "TIER 6",
-    "Vid": "",
-    "Notes": "Henry looked very capable in his pro debut, strong, tough, like someone that actually could challenge Murray for carries. This is a situation to watch and feel out. Unfortunately, the draft price is way too high for Henry right now, and is likely to go up if he continues to have success."
-  },
-  {
     "Player": "Javorius Allen BAL (8)",
     "BallersRank": 43,
     "ADP": 0,
@@ -442,7 +432,7 @@
   {
     "Player": "Dion Lewis NE (9)",
     "BallersRank": 44,
-    "ADP": 5.04,
+    "ADP": 10.1,
     "Projected Pts.": 103.2,
     "Risk": 4.77,
     "Tier": "TIER 7",
@@ -452,22 +442,12 @@
   {
     "Player": "Jay Ajayi MIA (8)",
     "BallersRank": 44,
-    "ADP": 8.08,
+    "ADP": 9.04,
     "Projected Pts.": 124.2,
     "Risk": 5.3,
     "Tier": "TIER 7",
     "Vid": "",
     "Notes": "The nightmare Ajayi backers were dreading came true. Arian Foster has taken his talents to South Beach. But, a ruptured achilles is an injury that is nearly impossible to see a full recovery from for running backs. Foster already looked as if he had slowed down in the running game. Ajayi could become a decent value now in fantasy drafts. It is still possible for him to be the primary RB for Miami, and Gase has shown he loves to have a guy in the backfield that takes the majority of the work. It's a situation to watch through camp and preseason."
-  },
-  {
-    "Player": "LeGarrette Blount NE (9)",
-    "BallersRank": 46,
-    "ADP": 8.12,
-    "Projected Pts.": 126.03,
-    "Risk": 4.3,
-    "Tier": "TIER 7",
-    "Vid": "",
-    "Notes": "Let's be clear, nobody starts Blount and thinks, \"oh yeah, Blount's gonna win this week all by himself!\". But that's exactly what he does from time to time. Good luck trying to break through the encryption that is Bill Belichick and know when it's going to happen. It will happen, and Blount is worth a roster spot."
   },
   {
     "Player": "Chris Thompson WAS (9)",
@@ -480,9 +460,19 @@
     "Notes": "Thompson could find himself looking at a decent passing downs job in Washington. He was decently productive before his injury last year. However, whispers in the bushes say Thompson could be looking at finding a new job before the season starts."
   },
   {
+    "Player": "LeGarrette Blount NE (9)",
+    "BallersRank": 47,
+    "ADP": 7.1,
+    "Projected Pts.": 126.03,
+    "Risk": 4.3,
+    "Tier": "TIER 7",
+    "Vid": "",
+    "Notes": "Let's be clear, nobody starts Blount and thinks, \"oh yeah, Blount's gonna win this week all by himself!\". But that's exactly what he does from time to time. Good luck trying to break through the encryption that is Bill Belichick and know when it's going to happen. It will happen, and Blount is worth a roster spot."
+  },
+  {
     "Player": "C.J. Prosise SEA (5)",
     "BallersRank": 48,
-    "ADP": 13.05,
+    "ADP": 0,
     "Projected Pts.": 117.37,
     "Risk": 3.97,
     "Tier": "TIER 7",
@@ -491,7 +481,7 @@
   },
   {
     "Player": "Darren McFadden DAL (7)",
-    "BallersRank": 49,
+    "BallersRank": 50,
     "ADP": 0,
     "Projected Pts.": 109.33,
     "Risk": 5.03,
@@ -500,9 +490,29 @@
     "Notes": "Welp. The Frankenstein resurrection for Darren McFadden was short lived after the Cowboys used the 4th overall pick on a running back. Once handed the starting job, DMC was actually great. There will still be a place for him in the passing game, but it would take an injury to Ezekiel Elliott for him to have true fantasy value now."
   },
   {
+    "Player": "Derrick Henry TEN (13)",
+    "BallersRank": 50,
+    "ADP": 7.04,
+    "Projected Pts.": 112.87,
+    "Risk": 4.7,
+    "Tier": "TIER 7",
+    "Vid": "",
+    "Notes": "Henry looked very capable in his pro debut, strong, tough, like someone that actually could challenge Murray for carries. This is a situation to watch and feel out. Unfortunately, the draft price is way too high for Henry right now, and is likely to go up if he continues to have success."
+  },
+  {
+    "Player": "DeAndre Washington OAK (10)",
+    "BallersRank": 49,
+    "ADP": 11.05,
+    "Projected Pts.": 112.93,
+    "Risk": 5.37,
+    "Tier": "TIER 8",
+    "Vid": "",
+    "Notes": "Washington provides a very interesting late round value. Oakland was not shy about proclaiming their need to improve at the RB despite Latavius Murray having a decent season. Oakland was rumored to be in the mix for Doug Martin, as well as DeMarco Murray last year. Instead of making a big splash, the Raiders went with Washington in the draft. If Murray falters or gets benched like he did last year, look for Washington to be the benefactor."
+  },
+  {
     "Player": "Christine Michael SEA (5)",
-    "BallersRank": 51,
-    "ADP": 10.09,
+    "BallersRank": 52,
+    "ADP": 8.09,
     "Projected Pts.": 105.2,
     "Risk": 5.7,
     "Tier": "TIER 8",
@@ -510,19 +520,9 @@
     "Notes": "#TheAwakening! If you trust your eyes, they are telling you CMike looks different. His 2nd round talent has been flashing this preseason. Rawls still hasn't found his way into a game, and Michael is taking full advantage. If for any reason Rawls isn't ready to go, CMike would be the main guy for Seattle. Even if Rawls is ready to go, Coach Carroll has already called Rawls/Michael a \"1-2 punch\". Worth a flier at this point."
   },
   {
-    "Player": "DeAndre Washington OAK (10)",
-    "BallersRank": 51,
-    "ADP": 10.08,
-    "Projected Pts.": 103.63,
-    "Risk": 5.37,
-    "Tier": "TIER 8",
-    "Vid": "",
-    "Notes": "Washington provides a very interesting late round value. Oakland was not shy about proclaiming their need to improve at the RB despite Latavius Murray having a decent season. Oakland was rumored to be in the mix for Doug Martin, as well as DeMarco Murray last year. Instead of making a big splash, the Raiders went with Washington in the draft. If Murray falters or gets benched like he did last year, look for Washington to be the benefactor."
-  },
-  {
     "Player": "Tevin Coleman ATL (11)",
     "BallersRank": 53,
-    "ADP": 9.05,
+    "ADP": 9.09,
     "Projected Pts.": 94.77,
     "Risk": 4.7,
     "Tier": "TIER 8",
@@ -552,7 +552,7 @@
   {
     "Player": "Devontae Booker DEN (11)",
     "BallersRank": 56,
-    "ADP": 11.08,
+    "ADP": 11.04,
     "Projected Pts.": 87.83,
     "Risk": 6.03,
     "Tier": "TIER 8",
@@ -562,7 +562,7 @@
   {
     "Player": "Karlos Williams FA",
     "BallersRank": 57,
-    "ADP": 12.05,
+    "ADP": 0,
     "Projected Pts.": 60.93,
     "Risk": 2.73,
     "Tier": "TIER 8",
@@ -572,7 +572,7 @@
   {
     "Player": "Jerick McKinnon MIN (6)",
     "BallersRank": 58,
-    "ADP": 13.06,
+    "ADP": 13.02,
     "Projected Pts.": 66.83,
     "Risk": 3.5,
     "Tier": "TIER 8",
@@ -582,7 +582,7 @@
   {
     "Player": "Charcandrick West KC (5)",
     "BallersRank": 59,
-    "ADP": 11.02,
+    "ADP": 13.07,
     "Projected Pts.": 65.6,
     "Risk": 4.5,
     "Tier": "TIER 8",
@@ -592,7 +592,7 @@
   {
     "Player": "Terrance West BAL (8)",
     "BallersRank": 59,
-    "ADP": 12.11,
+    "ADP": 13.06,
     "Projected Pts.": 77.6,
     "Risk": 8,
     "Tier": "TIER 8",
@@ -612,7 +612,7 @@
   {
     "Player": "Kenneth Dixon BAL (8)",
     "BallersRank": 62,
-    "ADP": 14.03,
+    "ADP": 0,
     "Projected Pts.": 81.67,
     "Risk": 6.7,
     "Tier": "TIER 8",
@@ -622,7 +622,7 @@
   {
     "Player": "Alfred Morris DAL (7)",
     "BallersRank": 63,
-    "ADP": 12.06,
+    "ADP": 9.11,
     "Projected Pts.": 74.5,
     "Risk": 5.47,
     "Tier": "TIER 8",
@@ -632,7 +632,7 @@
   {
     "Player": "James Starks GB (4)",
     "BallersRank": 64,
-    "ADP": 13.12,
+    "ADP": 13.08,
     "Projected Pts.": 56.33,
     "Risk": 3.15,
     "Tier": "TIER 8",
@@ -642,7 +642,7 @@
   {
     "Player": "Chris Johnson ARI (9)",
     "BallersRank": 65,
-    "ADP": 11.11,
+    "ADP": 12.09,
     "Projected Pts.": 62.17,
     "Risk": 3.5,
     "Tier": "TIER 8",
@@ -652,7 +652,7 @@
   {
     "Player": "Jordan Howard CHI (9)",
     "BallersRank": 66,
-    "ADP": 14.05,
+    "ADP": 0,
     "Projected Pts.": 72.57,
     "Risk": 6.03,
     "Tier": "TIER 8",
@@ -752,7 +752,7 @@
   {
     "Player": "Tim Hightower NO (5)",
     "BallersRank": 76,
-    "ADP": 14.02,
+    "ADP": 0,
     "Projected Pts.": 37,
     "Risk": 3,
     "Tier": "TIER 9",
@@ -762,7 +762,7 @@
   {
     "Player": "Spencer Ware KC (5)",
     "BallersRank": 77,
-    "ADP": 13.07,
+    "ADP": 12.04,
     "Projected Pts.": 37.77,
     "Risk": 5,
     "Tier": "TIER 9",

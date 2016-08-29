@@ -12,7 +12,7 @@
   {
     "Player": "Jordan Reed WAS (9)",
     "BallersRank": 2,
-    "ADP": 4.04,
+    "ADP": 4.05,
     "Projected Pts.": 242.13,
     "Risk": 6.03,
     "Tier": "TIER 2",
@@ -22,7 +22,7 @@
   {
     "Player": "Greg Olsen CAR (7)",
     "BallersRank": 3,
-    "ADP": 5.02,
+    "ADP": 5.03,
     "Projected Pts.": 208.5,
     "Risk": 1.37,
     "Tier": "TIER 3",
@@ -32,7 +32,7 @@
   {
     "Player": "Travis Kelce KC (5)",
     "BallersRank": 4,
-    "ADP": 6.04,
+    "ADP": 6.03,
     "Projected Pts.": 203.1,
     "Risk": 3.63,
     "Tier": "TIER 3",
@@ -42,7 +42,7 @@
   {
     "Player": "Gary Barnidge CLE (13)",
     "BallersRank": 5,
-    "ADP": 8.07,
+    "ADP": 7.12,
     "Projected Pts.": 204.77,
     "Risk": 3.83,
     "Tier": "TIER 3",
@@ -52,7 +52,7 @@
   {
     "Player": "Coby Fleener NO (5)",
     "BallersRank": 6,
-    "ADP": 6.07,
+    "ADP": 6.1,
     "Projected Pts.": 200.67,
     "Risk": 3.67,
     "Tier": "TIER 3",
@@ -62,7 +62,7 @@
   {
     "Player": "Delanie Walker TEN (13)",
     "BallersRank": 7,
-    "ADP": 7.02,
+    "ADP": 6.12,
     "Projected Pts.": 191.43,
     "Risk": 4.5,
     "Tier": "TIER 4",
@@ -72,7 +72,7 @@
   {
     "Player": "Zach Ertz PHI (4)",
     "BallersRank": 8,
-    "ADP": 10.08,
+    "ADP": 10.09,
     "Projected Pts.": 191.17,
     "Risk": 5.03,
     "Tier": "TIER 4",
@@ -82,7 +82,7 @@
   {
     "Player": "Antonio Gates SD (11)",
     "BallersRank": 8,
-    "ADP": 10.02,
+    "ADP": 9.08,
     "Projected Pts.": 189.3,
     "Risk": 5,
     "Tier": "TIER 4",
@@ -92,7 +92,7 @@
   {
     "Player": "Eric Ebron DET (10)",
     "BallersRank": 10,
-    "ADP": 13.12,
+    "ADP": 0,
     "Projected Pts.": 179.37,
     "Risk": 4.13,
     "Tier": "TIER 4",
@@ -102,7 +102,7 @@
   {
     "Player": "Dwayne Allen IND (10)",
     "BallersRank": 11,
-    "ADP": 12.08,
+    "ADP": 12.03,
     "Projected Pts.": 178.87,
     "Risk": 4.83,
     "Tier": "TIER 4",
@@ -112,7 +112,7 @@
   {
     "Player": "Tyler Eifert CIN (9)",
     "BallersRank": 12,
-    "ADP": 7.08,
+    "ADP": 8.05,
     "Projected Pts.": 174.13,
     "Risk": 5.5,
     "Tier": "TIER 4",
@@ -122,7 +122,7 @@
   {
     "Player": "Julius Thomas JAC (5)",
     "BallersRank": 12,
-    "ADP": 8.09,
+    "ADP": 9.01,
     "Projected Pts.": 173.47,
     "Risk": 4.37,
     "Tier": "TIER 5",
@@ -132,7 +132,7 @@
   {
     "Player": "Jason Witten DAL (7)",
     "BallersRank": 14,
-    "ADP": 14.01,
+    "ADP": 13.09,
     "Projected Pts.": 168.8,
     "Risk": 1.5,
     "Tier": "TIER 5",
@@ -152,7 +152,7 @@
   {
     "Player": "Zach Miller CHI (9)",
     "BallersRank": 16,
-    "ADP": 13.09,
+    "ADP": 13.12,
     "Projected Pts.": 161.27,
     "Risk": 5,
     "Tier": "TIER 6",
@@ -162,7 +162,7 @@
   {
     "Player": "Martellus Bennett NE (9)",
     "BallersRank": 17,
-    "ADP": 11.02,
+    "ADP": 11.07,
     "Projected Pts.": 151.93,
     "Risk": 4.7,
     "Tier": "TIER 6",
@@ -232,7 +232,7 @@
   {
     "Player": "Ladarius Green PIT (8)",
     "BallersRank": 24,
-    "ADP": 13.01,
+    "ADP": 0,
     "Projected Pts.": 98,
     "Risk": 4.83,
     "Tier": "TIER 8",
@@ -242,7 +242,7 @@
   {
     "Player": "Jared Cook GB (4)",
     "BallersRank": 25,
-    "ADP": 13.09,
+    "ADP": 12.11,
     "Projected Pts.": 120.83,
     "Risk": 5.03,
     "Tier": "TIER 8",
@@ -272,7 +272,7 @@
   {
     "Player": "Jimmy Graham SEA (5)",
     "BallersRank": 28,
-    "ADP": 10.03,
+    "ADP": 10.12,
     "Projected Pts.": 63.53,
     "Risk": 9.55,
     "Tier": "TIER 9",
@@ -322,7 +322,7 @@
   {
     "Player": "Zach Miller, FA",
     "BallersRank": 33,
-    "ADP": 13.09,
+    "ADP": 13.12,
     "Projected Pts.": 0,
     "Risk": 0,
     "Tier": "TIER 9",
