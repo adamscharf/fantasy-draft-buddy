@@ -33,7 +33,7 @@
     "Player": "Travis Kelce KC (5)",
     "BallersRank": 4,
     "ADP": 6.03,
-    "Projected Pts.": 203.1,
+    "Projected Pts.": 203.93,
     "Risk": 3.63,
     "Tier": "TIER 3",
     "Vid": "",
@@ -41,9 +41,9 @@
   },
   {
     "Player": "Gary Barnidge CLE (13)",
-    "BallersRank": 5,
+    "BallersRank": 4,
     "ADP": 7.12,
-    "Projected Pts.": 204.77,
+    "Projected Pts.": 205.77,
     "Risk": 3.83,
     "Tier": "TIER 3",
     "Vid": "",
@@ -63,27 +63,17 @@
     "Player": "Delanie Walker TEN (13)",
     "BallersRank": 7,
     "ADP": 6.12,
-    "Projected Pts.": 191.43,
+    "Projected Pts.": 192.43,
     "Risk": 4.5,
     "Tier": "TIER 4",
     "Vid": "",
     "Notes": "Delanie Walker just signed a new contract which is always a good sign for a player being used in the same role. That being said, the Titans want to run the ball more this year with their \"exotic smashmouth\" offense. When you add in that they will have Kendall Wright healthy, a more experienced DGB, and brought in new passcatcher Rishard Matthews into town we expect Delanie Walker to come down a bit from his career high season last year."
   },
   {
-    "Player": "Zach Ertz PHI (4)",
-    "BallersRank": 8,
-    "ADP": 10.09,
-    "Projected Pts.": 191.17,
-    "Risk": 5.03,
-    "Tier": "TIER 4",
-    "Vid": "",
-    "Notes": "Ertz is a favorite of The Fantasy Footballers. He is a good route runner who should be able to do some special things this year. He took a big step forward in his third season jumping up to 75 receptions and over 850 yards. The problem was TDs. Despite 75 catches, he only had 2 touchdowns. Most of the blame for this should not go his way though as Bradford targeted, and missed, Ertz in the redzone numerous times last year. They started finding their groove late last year and with another year together, if Bradford is the starter, Ertz should have a very good fantasy season."
-  },
-  {
     "Player": "Antonio Gates SD (11)",
     "BallersRank": 8,
     "ADP": 9.08,
-    "Projected Pts.": 189.3,
+    "Projected Pts.": 191.3,
     "Risk": 5,
     "Tier": "TIER 4",
     "Vid": "",
@@ -91,7 +81,7 @@
   },
   {
     "Player": "Eric Ebron DET (10)",
-    "BallersRank": 10,
+    "BallersRank": 9,
     "ADP": 0,
     "Projected Pts.": 179.37,
     "Risk": 4.13,
@@ -101,27 +91,17 @@
   },
   {
     "Player": "Dwayne Allen IND (10)",
-    "BallersRank": 11,
+    "BallersRank": 10,
     "ADP": 12.03,
-    "Projected Pts.": 178.87,
+    "Projected Pts.": 176.87,
     "Risk": 4.83,
     "Tier": "TIER 4",
     "Vid": "",
     "Notes": "The last several years there has been an argument as to who is the better tight end to draft from the Colts. Some people preferred the more-involved Coby Fleener and some preferred the better red zone option, Dwayne Allen. Well now Dwayne Allen is both of those. The Colts have promised to have him more involved in the offense and he was already a key part of their red zone when Andrew Luck was in tow."
   },
   {
-    "Player": "Tyler Eifert CIN (9)",
-    "BallersRank": 12,
-    "ADP": 8.05,
-    "Projected Pts.": 174.13,
-    "Risk": 5.5,
-    "Tier": "TIER 4",
-    "Vid": "",
-    "Notes": "Eifert the TD machine. Unfortunately, he had a late offseason ankle surgery that looks like it could keep hi out of a few games to start the season. Tyler still thinks he can make it for Week 1, but if you are drafting Eifert it needs to be under the assumption he will miss some time."
-  },
-  {
     "Player": "Julius Thomas JAC (5)",
-    "BallersRank": 12,
+    "BallersRank": 11,
     "ADP": 9.01,
     "Projected Pts.": 173.47,
     "Risk": 4.37,
@@ -130,10 +110,30 @@
     "Notes": "Julius Thomas was a forgotten man last year after his injury derailed a third of his season. During that time Blake Bortles found new TD targets in the Allen bros and didn't seem to use him too much in the redzone. With JT, he needs touchdowns. His value in the 2013-2014 seasons came entirely from his heavy touchdown output of 12 per year. He is not a volume receiver, so if you draft him you have to hope he gets more involved in the red zone offense or plan to stream the position."
   },
   {
+    "Player": "Tyler Eifert CIN (9)",
+    "BallersRank": 12,
+    "ADP": 8.05,
+    "Projected Pts.": 174.13,
+    "Risk": 5.5,
+    "Tier": "TIER 5",
+    "Vid": "",
+    "Notes": "Eifert the TD machine. Unfortunately, he had a late offseason ankle surgery that looks like it could keep hi out of a few games to start the season. Tyler still thinks he can make it for Week 1, but if you are drafting Eifert it needs to be under the assumption he will miss some time."
+  },
+  {
+    "Player": "Zach Ertz PHI (4)",
+    "BallersRank": 12,
+    "ADP": 10.09,
+    "Projected Pts.": 175,
+    "Risk": 5.03,
+    "Tier": "TIER 5",
+    "Vid": "",
+    "Notes": "Ertz is a favorite of The Fantasy Footballers. He is a good route runner who should be able to do some special things this year. He took a big step forward in his third season jumping up to 75 receptions and over 850 yards. The problem was TDs. Despite 75 catches, he only had 2 touchdowns. Most of the blame for this should not go his way though as Bradford targeted, and missed, Ertz in the redzone numerous times last year. They started finding their groove late last year and with another year together, if Bradford is the starter, Ertz should have a very good fantasy season."
+  },
+  {
     "Player": "Jason Witten DAL (7)",
-    "BallersRank": 14,
+    "BallersRank": 12,
     "ADP": 13.09,
-    "Projected Pts.": 168.8,
+    "Projected Pts.": 170.8,
     "Risk": 1.5,
     "Tier": "TIER 5",
     "Vid": "",
@@ -150,8 +150,18 @@
     "Notes": "Had sneaky fantasy value for a tiny chunk of the season. New coach Chip Kelly has seen some successful TE campaigns emerge. McDonald is going to go very late in the draft and has very real upside. He's already showing flashes and a getting a solid amount of preseason targets. Great option if you punt TE."
   },
   {
-    "Player": "Zach Miller CHI (9)",
+    "Player": "Virgil Green DEN (11)",
     "BallersRank": 16,
+    "ADP": 0,
+    "Projected Pts.": 163.4,
+    "Risk": 5.93,
+    "Tier": "TIER 6",
+    "Vid": "",
+    "Notes": "An athletic monster that many in the fantasy industry have pleaded to see unleashed. This could be the year. The team has been talking him up. Kubiak has a system that generally involves the TE. He's getting the targets in preseason. Green is a name to keep in mind if you punt on TE."
+  },
+  {
+    "Player": "Zach Miller CHI (9)",
+    "BallersRank": 17,
     "ADP": 13.12,
     "Projected Pts.": 161.27,
     "Risk": 5,
@@ -161,7 +171,7 @@
   },
   {
     "Player": "Martellus Bennett NE (9)",
-    "BallersRank": 17,
+    "BallersRank": 18,
     "ADP": 11.07,
     "Projected Pts.": 151.93,
     "Risk": 4.7,
@@ -170,18 +180,18 @@
     "Notes": "Martellus Bennett has been a capable fantasy tight end for many years and now goes to the Patriots to take on what people hope is the \"Aaron Hernandez role.\" Call us skeptical. There is a reason the Bears let him walk and you could see it in his last season (when he was actually healthy). He's still only 29 and he is an upgrade over Scott Chandler for sure. But the Patriots have tried to fill the \"Aaron Hernandez role\" for years with little to no success because, quite frankly, none of those guys are as good as Hernandez was. Bennett isn't either in this stage of his career. Bennett should get a few TDs this year and be used in the passing game to make him an occasional streamer."
   },
   {
-    "Player": "Will Tye NYG (8)",
-    "BallersRank": 17,
+    "Player": "Kyle Rudolph MIN (6)",
+    "BallersRank": 19,
     "ADP": 0,
-    "Projected Pts.": 152.7,
-    "Risk": 5.03,
-    "Tier": "TIER 6",
+    "Projected Pts.": 151.53,
+    "Risk": 4,
+    "Tier": "TIER 7",
     "Vid": "",
-    "Notes": "Tye was an UDFA that fought his way onto the Giants roster. Word from those that cover the team feel Tye will be the starter headed into the season. Tye didn't have numbers to blow you away, but he was involved in the offense and received his fair share of targets. If you stack your team with depth and wait on TE, Tye should be in consideration."
+    "Notes": "Rudolph came into the league with very high expectations from the fantasy community. Year after year we would continue to hope for the breakout to happen. At this point he is what he is. He can be the occasional fill in help, but he can't be counted on to be a weekly part of your lineup."
   },
   {
     "Player": "Charles Clay BUF (10)",
-    "BallersRank": 19,
+    "BallersRank": 20,
     "ADP": 0,
     "Projected Pts.": 144.63,
     "Risk": 4.17,
@@ -190,28 +200,8 @@
     "Notes": "Charles Clay was not worth the money that the Bills paid to get him last season, but he might be worth a flier late in your draft. Clay is a talented pass catcher with big play potential. We saw him explode a few times last year in Buffalo, but more often than not he was rather quiet. The problem with relying on Clay is that Buffalo is a team that throws near the bottom in the league making Clay a good streamer but lousy to rely on."
   },
   {
-    "Player": "Kyle Rudolph MIN (6)",
-    "BallersRank": 20,
-    "ADP": 0,
-    "Projected Pts.": 143.27,
-    "Risk": 4,
-    "Tier": "TIER 7",
-    "Vid": "",
-    "Notes": "Rudolph came into the league with very high expectations from the fantasy community. Year after year we would continue to hope for the breakout to happen. At this point he is what he is. He can be the occasional fill in help, but he can't be counted on to be a weekly part of your lineup."
-  },
-  {
-    "Player": "Virgil Green DEN (11)",
-    "BallersRank": 21,
-    "ADP": 0,
-    "Projected Pts.": 113.57,
-    "Risk": 5.93,
-    "Tier": "TIER 7",
-    "Vid": "",
-    "Notes": "An athletic monster that many in the fantasy industry have pleaded to see unleashed. This could be the year. The team has been talking him up. Kubiak has a system that generally involves the TE. He's getting the targets in preseason. Green is a name to keep in mind if you punt on TE."
-  },
-  {
     "Player": "Clive Walford OAK (10)",
-    "BallersRank": 22,
+    "BallersRank": 21,
     "ADP": 0,
     "Projected Pts.": 132.73,
     "Risk": 5.33,
@@ -221,7 +211,7 @@
   },
   {
     "Player": "Jordan Cameron MIA (8)",
-    "BallersRank": 23,
+    "BallersRank": 22,
     "ADP": 0,
     "Projected Pts.": 126.9,
     "Risk": 5.83,
@@ -230,18 +220,18 @@
     "Notes": "Since Cameron's breakout season a few years ago, he hasn't come anywhere close to matching that type of fantasy output. In fact the last two years combined would still be worse than his big year. The physical tools are all there. Now Adam Gase comes to town, an offensive coach that likes to use the TE (think Julius Thomas and Martellus Bennet). He would only be a flier, but you could fly worse than on Cameron."
   },
   {
-    "Player": "Ladarius Green PIT (8)",
-    "BallersRank": 24,
+    "Player": "Will Tye NYG (8)",
+    "BallersRank": 23,
     "ADP": 0,
-    "Projected Pts.": 98,
-    "Risk": 4.83,
+    "Projected Pts.": 128.93,
+    "Risk": 5.03,
     "Tier": "TIER 8",
     "Vid": "",
-    "Notes": "Ladarius Green is now dealing with a very murky situation. It's reported that he is dealing with headaches still from a concussion last season. It's not good. It's hands off at this point and he could even be heading the IR."
+    "Notes": "Tye was an UDFA that fought his way onto the Giants roster. Word from those that cover the team feel Tye will be the starter headed into the season. Tye didn't have numbers to blow you away, but he was involved in the offense and received his fair share of targets. If you stack your team with depth and wait on TE, Tye should be in consideration."
   },
   {
     "Player": "Jared Cook GB (4)",
-    "BallersRank": 25,
+    "BallersRank": 24,
     "ADP": 12.11,
     "Projected Pts.": 120.83,
     "Risk": 5.03,
@@ -250,18 +240,18 @@
     "Notes": "Jared Cook is a possible upside candidate this year at tight end now that he's made the move to the Packers. But be careful of your expectations. Aaron Rodgers hasn't used the tight end position very much since the departure of Jermichael Finley. Last year it took injuries to Jordy Nelson and Andrew Quarless PLUS a hail marry touchdown to make Richard Rodgers barely a tight end 1. Then there's the fact that Richard Rodgers is still there to split with Jared Cook."
   },
   {
-    "Player": "Austin Seferian-Jenkins TB (6)",
-    "BallersRank": 26,
+    "Player": "Ladarius Green PIT (8)",
+    "BallersRank": 25,
     "ADP": 0,
-    "Projected Pts.": 107.67,
-    "Risk": 5.33,
+    "Projected Pts.": 98,
+    "Risk": 4.83,
     "Tier": "TIER 8",
     "Vid": "",
-    "Notes": "ASJ has been a major disappointment to this point in his career. But we need to remember that his \"career\" has only been two seasons. Over the course of those two seasons, he's missed 16 total games. But great TEs don't usually show up until their third year in the league anyway, and you saw some dynamic plays with ASJ and Winston last year as he averaged 16.1 yards per reception. This is a true boom or bust candidate, but time is running out on him to stake claim to the Bucs primary TE position. However, if he plays a full 16 this year, he has the talent to be top 5 at the position."
+    "Notes": "Green has been put on the PUP list for the Steelers, eligible to return after week 6.  Jesse James is the temporary guy to own in this situation and offers some upside with Big Ben's dependency on the TE position."
   },
   {
     "Player": "Maxx Williams BAL (8)",
-    "BallersRank": 27,
+    "BallersRank": 26,
     "ADP": 0,
     "Projected Pts.": 115.43,
     "Risk": 5,
@@ -270,8 +260,28 @@
     "Notes": "Williams was the first TE taken in his draft class. It didn't pan out for much last year. The Ravens decided to add veteran Ben Watson to their depth chart, making things very unclear for Maxx. He was drafted to be a pass catcher, he's in Marc Trestman's offense that is frequently friendly to the TE. The table is set, but unfortunately there's around 4 plates at that table"
   },
   {
-    "Player": "Jimmy Graham SEA (5)",
+    "Player": "Austin Seferian-Jenkins TB (6)",
+    "BallersRank": 27,
+    "ADP": 0,
+    "Projected Pts.": 107.67,
+    "Risk": 5.33,
+    "Tier": "TIER 8",
+    "Vid": "",
+    "Notes": "ASJ has been a major disappointment to this point in his career. But we need to remember that his \"career\" has only been two seasons. Over the course of those two seasons, he's missed 16 total games. But great TEs don't usually show up until their third year in the league anyway, and you saw some dynamic plays with ASJ and Winston last year as he averaged 16.1 yards per reception. This is a true boom or bust candidate, but time is running out on him to stake claim to the Bucs primary TE position. However, if he plays a full 16 this year, he has the talent to be top 5 at the position."
+  },
+  {
+    "Player": "Larry Donnell NYG (8)",
     "BallersRank": 28,
+    "ADP": 0,
+    "Projected Pts.": 92.23,
+    "Risk": 6.03,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": "Donnell is coming off a very serious neck injury. He often looks like an awkward teenager that is still getting used to his body after a big growth spurt. With the way Will Tye played, Donnell could find himself on the bench."
+  },
+  {
+    "Player": "Jimmy Graham SEA (5)",
+    "BallersRank": 29,
     "ADP": 10.12,
     "Projected Pts.": 63.53,
     "Risk": 9.55,
@@ -280,8 +290,18 @@
     "Notes": "Jimmy Graham was a fantasy all-star tight end for the Saints for several years. Last year, he went to the Seahawks and majorly disappointed before getting injured. Even when healthy he was a boom or bust weekly play which is not much different than your average tight end. What's worse is that when he left the team due to injury, their offense seemed to improve. But that was last year... so how about this year? Much, much worse. He's now coming off a devastating injury that says he probably can't return to form in 2016. Sure, they might say he's looking good but we heard the same thing with Victor Cruz last year and we know how well that worked out."
   },
   {
+    "Player": "Crockett Gillmore BAL (8)",
+    "BallersRank": 30,
+    "ADP": 0,
+    "Projected Pts.": 72.33,
+    "Risk": 4.5,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": "Gillmore has had multiple offseason surgeries. He had a decent year and was a useful spot starter for fantasy. But the Ravens have been proactive adding Ben Watson to the roster if Gillmore can't be ready for Week 1."
+  },
+  {
     "Player": "Richard Rodgers GB (4)",
-    "BallersRank": 29,
+    "BallersRank": 31,
     "ADP": 0,
     "Projected Pts.": 75.9,
     "Risk": 5.03,
@@ -290,8 +310,18 @@
     "Notes": "Managed to swindle his way to being a TE1 last year. Mostly on the heels of touchdowns, and specifically a one legendary hailmary play that will haunt the dreams of Lions fans to eternity. His production was erratic at best. He is still young. But the Packers brought in Jared Cook during the offseason. It would be a shock to see Rodgers do much of anything for fantasy this year."
   },
   {
+    "Player": "Jacob Tamme ATL (11)",
+    "BallersRank": 32,
+    "ADP": 0,
+    "Projected Pts.": 36.27,
+    "Risk": 4,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
     "Player": "Benjamin Watson BAL (8)",
-    "BallersRank": 30,
+    "BallersRank": 33,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 4.53,
@@ -301,7 +331,7 @@
   },
   {
     "Player": "Vernon Davis WAS (9)",
-    "BallersRank": 31,
+    "BallersRank": 34,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 7.95,
@@ -310,18 +340,18 @@
     "Notes": "The Washington insurance plan if something terrible happens to Jordan Reed and Niles Paul isn't able to fill in."
   },
   {
-    "Player": "Larry Donnell NYG (8)",
-    "BallersRank": 32,
+    "Player": "Jace Amaro NYJ (11)",
+    "BallersRank": 35,
     "ADP": 0,
-    "Projected Pts.": 31.37,
-    "Risk": 7.05,
+    "Projected Pts.": 23.1,
+    "Risk": 5,
     "Tier": "TIER 9",
     "Vid": "",
-    "Notes": "Donnell is coming off a very serious neck injury. He often looks like an awkward teenager that is still getting used to his body after a big growth spurt. With the way Will Tye played, Donnell could find himself on the bench."
+    "Notes": ""
   },
   {
     "Player": "Zach Miller, FA",
-    "BallersRank": 33,
+    "BallersRank": 36,
     "ADP": 13.12,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -330,20 +360,20 @@
     "Notes": ""
   },
   {
-    "Player": "Crockett Gillmore BAL (8)",
-    "BallersRank": 34,
+    "Player": "Jesse James PIT (8)",
+    "BallersRank": 36,
     "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 6,
+    "Projected Pts.": 35.23,
+    "Risk": 4,
     "Tier": "TIER 9",
     "Vid": "",
-    "Notes": "Gillmore has had multiple offseason surgeries. He had a decent year and was a useful spot starter for fantasy. But the Ravens have been proactive adding Ben Watson to the roster if Gillmore can't be ready for Week 1."
+    "Notes": ""
   },
   {
-    "Player": "Jace Amaro NYJ (11)",
-    "BallersRank": 35,
+    "Player": "Ryan Griffin HOU (9)",
+    "BallersRank": 38,
     "ADP": 0,
-    "Projected Pts.": 0,
+    "Projected Pts.": 30.01,
     "Risk": 5,
     "Tier": "TIER 9",
     "Vid": "",
@@ -351,7 +381,7 @@
   },
   {
     "Player": "Owen Daniels, FA",
-    "BallersRank": 36,
+    "BallersRank": 39,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
@@ -360,68 +390,18 @@
     "Notes": "Owen Daniels proved last year that he isn't good anymore. Plus he doesn't have a team. That always hurts your fantasy value."
   },
   {
-    "Player": "Jacob Tamme ATL (11)",
-    "BallersRank": 37,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 4,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
     "Player": "Josh Hill NO (5)",
-    "BallersRank": 38,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 5,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Ryan Griffin HOU (9)",
     "BallersRank": 39,
     "ADP": 0,
-    "Projected Pts.": 0,
+    "Projected Pts.": 18,
     "Risk": 5,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Jesse James PIT (8)",
-    "BallersRank": 40,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 4,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Hunter Henry SD (11)",
-    "BallersRank": 41,
-    "ADP": 0,
-    "Projected Pts.": 25,
-    "Risk": 6,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Austin Hooper ATL (11)",
-    "BallersRank": 41,
-    "ADP": 0,
-    "Projected Pts.": 30.17,
-    "Risk": 6,
     "Tier": "TIER 9",
     "Vid": "",
     "Notes": ""
   },
   {
     "Player": "Mychal Rivera OAK (10)",
-    "BallersRank": 43,
+    "BallersRank": 41,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 5,
@@ -431,10 +411,30 @@
   },
   {
     "Player": "Blake Bell SF (8)",
-    "BallersRank": 44,
+    "BallersRank": 42,
     "ADP": 0,
     "Projected Pts.": 0,
     "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Hunter Henry SD (11)",
+    "BallersRank": 43,
+    "ADP": 0,
+    "Projected Pts.": 25.75,
+    "Risk": 6,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Austin Hooper ATL (11)",
+    "BallersRank": 43,
+    "ADP": 0,
+    "Projected Pts.": 30.17,
+    "Risk": 6,
     "Tier": "TIER 9",
     "Vid": "",
     "Notes": ""
