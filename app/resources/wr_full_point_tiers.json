@@ -53,7 +53,7 @@
     "Player": "DeAndre Hopkins HOU (9)",
     "BallersRank": 6,
     "ADP": 1.09,
-    "Projected Pts.": 287.63,
+    "Projected Pts.": 285.63,
     "Risk": 3.07,
     "Tier": "TIER 2",
     "Vid": "",
@@ -61,7 +61,7 @@
   },
   {
     "Player": "Allen Robinson JAC (5)",
-    "BallersRank": 7,
+    "BallersRank": 6,
     "ADP": 1.12,
     "Projected Pts.": 291.03,
     "Risk": 3.4,
@@ -90,24 +90,24 @@
     "Notes": "Evans had a solid year, but was a candidate ripe for TD regression and saw the narrative fulfilled to the extreme. He went from 12 TDs on 68 receptions, to only 3 TDs on 74 receptions. The good news for Evans is his QB Jameis Winston showed efficiency improvement over the course of the year. On top of getting better, Winston showed he had little concern to target his stud WR. In six of 15 games, Evans was targeted in the double-digits. Evans went from a regression candidate to a return to the mean candidate."
   },
   {
+    "Player": "Demaryius Thomas DEN (11)",
+    "BallersRank": 10,
+    "ADP": 3.09,
+    "Projected Pts.": 266.37,
+    "Risk": 4,
+    "Tier": "TIER 2",
+    "Vid": "",
+    "Notes": "Thomas had set such a high expectation from fantasy owners. Despite catching over 100 passes for over 1300 yards, he felt disappointing. Enter the power of the touchdown! Thomas went from from averaging 12 scores over the last three years, to only six. This production drop relegated him outside of the WR1 in standard scoring. The good news for Thomas, it can't get much worse than the quarterback play he received from Brock Osweiler and Pey-done Manning. The bad news, it appears Thomas should expect a lateral movement in QB play with 'Butt Fumble' Mark Sanchez or rookie Paxton Lynch throwing him the ball. Thomas is still a top talent, but expections should be along the lines of last year."
+  },
+  {
     "Player": "Keenan Allen SD (11)",
-    "BallersRank": 11,
+    "BallersRank": 10,
     "ADP": 2.09,
     "Projected Pts.": 269.13,
     "Risk": 3.1,
     "Tier": "TIER 2",
     "Vid": "",
     "Notes": "At the end of Week 7, Keenan Allen was the overall WR5. In five of those seven games he had double-digit targets. He was able to be the WR5 despite having only three touchdowns at that point. It all came crashing to a halt the next week as he lacerated his kidney on a TD grab. There's no injury concern for Allen heading into 2016. If the target volume can continue, not a ton of reason to believe it can't, then Allen will be a draft steal. The downside compared to the other top WRs is Allen doesn't provide a ton of big plays, he's reliant on that volume."
-  },
-  {
-    "Player": "Demaryius Thomas DEN (11)",
-    "BallersRank": 10,
-    "ADP": 3.09,
-    "Projected Pts.": 266.7,
-    "Risk": 4,
-    "Tier": "TIER 3",
-    "Vid": "",
-    "Notes": "Thomas had set such a high expectation from fantasy owners. Despite catching over 100 passes for over 1300 yards, he felt disappointing. Enter the power of the touchdown! Thomas went from from averaging 12 scores over the last three years, to only six. This production drop relegated him outside of the WR1 in standard scoring. The good news for Thomas, it can't get much worse than the quarterback play he received from Brock Osweiler and Pey-done Manning. The bad news, it appears Thomas should expect a lateral movement in QB play with 'Butt Fumble' Mark Sanchez or rookie Paxton Lynch throwing him the ball. Thomas is still a top talent, but expections should be along the lines of last year."
   },
   {
     "Player": "Dez Bryant DAL (7)",
@@ -130,18 +130,8 @@
     "Notes": "One of the most bizarre injuries of the offseason. Jordy looked like he slipped, runs off the field by himself, ends up having a torn ACL and missing the year. It was extremely disappointing with Jordy coming off a year with his second finish as the overall WR2. There is some slight concern in Jordy's age and recovery, but the Packers are clearly planning on Nelson returning to form. He had played complete seasons in three of the previous four years, and finished as a WR1 in each of them."
   },
   {
-    "Player": "Brandin Cooks NO (5)",
-    "BallersRank": 14,
-    "ADP": 3.03,
-    "Projected Pts.": 255.7,
-    "Risk": 4.63,
-    "Tier": "TIER 3",
-    "Vid": "",
-    "Notes": "Cooks appeared to be on a road trip to Bustsville through the first seven games of the year. In standard scoring, he was averaging just over seven points a game. Then the fantasy deathmatch of the Giants Vs. the Saints happened in Week 8. Through the final nine games, Cooks averaged over 13 points a game. Despite the strong second half, Cooks was not immune to 'crapping your team' with three weeks under four points each. Thankfully Cooks shouldn't cost a first or second round pick, moving him from a highly risky pick, to a solid value."
-  },
-  {
     "Player": "Sammy Watkins BUF (10)",
-    "BallersRank": 15,
+    "BallersRank": 14,
     "ADP": 3.06,
     "Projected Pts.": 253.53,
     "Risk": 6.33,
@@ -150,18 +140,18 @@
     "Notes": "The beginning of the year was riddled with injuries and high variance performances from Sammy. Eventually, the ankle healed up, and the chemistry with Tyrod Taylor lit up. From Week 12 through Week 17 Watkins was the overall WR3, outperforming the likes of Antonio Brown, Allen Robinson, Julio Jones, and Odell Beckham. The red flag would be the extremely low volume with which he succeeded. He averaged under six catches a game in that dominant stretch. The talent is there, but Rex Ryan's scheme could prevent Sammy from consistent top level fantasy production."
   },
   {
-    "Player": "Amari Cooper OAK (10)",
-    "BallersRank": 16,
-    "ADP": 2.11,
-    "Projected Pts.": 250.2,
-    "Risk": 3.37,
+    "Player": "Brandin Cooks NO (5)",
+    "BallersRank": 14,
+    "ADP": 3.03,
+    "Projected Pts.": 255.03,
+    "Risk": 4.63,
     "Tier": "TIER 3",
     "Vid": "",
-    "Notes": "Cooper had a sensational season by rookie standards. Only 20 rookies have had over 1000 yards in their first year, and Cooper's 1070 were good enough for the 10th best rookie season of all time. That production includes a leg injury that limited his production over the last quarter of the season, an injury that had the Raiders contemplating shutting him down. There's a few ways people feel about Cooper moving into his second year. Some fear the 'sophomore slump'. While others look at his production, while factoring in Michael Crabtree was often the first read and out-targeted Cooper 146 to 130. There's room for improvement here, but for his ADP, he MUST improve to return value."
+    "Notes": "Cooks appeared to be on a road trip to Bustsville through the first seven games of the year. In standard scoring, he was averaging just over seven points a game. Then the fantasy deathmatch of the Giants Vs. the Saints happened in Week 8. Through the final nine games, Cooks averaged over 13 points a game. Despite the strong second half, Cooks was not immune to 'crapping your team' with three weeks under four points each. Thankfully Cooks shouldn't cost a first or second round pick, moving him from a highly risky pick, to a solid value."
   },
   {
     "Player": "Julian Edelman NE (9)",
-    "BallersRank": 17,
+    "BallersRank": 16,
     "ADP": 4.12,
     "Projected Pts.": 253.8,
     "Risk": 4.43,
@@ -170,10 +160,20 @@
     "Notes": "Edelman, like Dez Bryant, suffered a Jones fracture that knocked him out for a good part of the season. He did come back and was highly effective, but has since had another surgery on his foot. The Patriots believe he will be ready sooner than later, but it's a bit of a concern as Edelman's entire game relies on agility and violent planting and cutting. With Tom Brady currently suspended for the first four games of the year, his value could become very attractive knowing he should return to dominance as soon as Brady comes back."
   },
   {
+    "Player": "Amari Cooper OAK (10)",
+    "BallersRank": 17,
+    "ADP": 2.11,
+    "Projected Pts.": 250.2,
+    "Risk": 3.37,
+    "Tier": "TIER 3",
+    "Vid": "",
+    "Notes": "Cooper had a sensational season by rookie standards. Only 20 rookies have had over 1000 yards in their first year, and Cooper's 1070 were good enough for the 10th best rookie season of all time. That production includes a leg injury that limited his production over the last quarter of the season, an injury that had the Raiders contemplating shutting him down. There's a few ways people feel about Cooper moving into his second year. Some fear the 'sophomore slump'. While others look at his production, while factoring in Michael Crabtree was often the first read and out-targeted Cooper 146 to 130. There's room for improvement here, but for his ADP, he MUST improve to return value."
+  },
+  {
     "Player": "T.Y. Hilton IND (10)",
     "BallersRank": 18,
     "ADP": 3.06,
-    "Projected Pts.": 248.33,
+    "Projected Pts.": 249.17,
     "Risk": 2.67,
     "Tier": "TIER 4",
     "Vid": "",
@@ -190,24 +190,24 @@
     "Notes": "The Dirty Cake that is Jeremy Maclin came into a offense that hadn't seen a single WR score a single TD in over a year. It took until Week 3, but Maclin finally put one on the board. He had a really rough stretch in the middle of the year, but the final six games he Hulked out scoring six of his eight touchdowns. He shouldn't be counted on for putting up top end numbers week to week, but he's a very solid WR2 option."
   },
   {
-    "Player": "Jarvis Landry MIA (8)",
-    "BallersRank": 20,
-    "ADP": 4.04,
-    "Projected Pts.": 242.17,
-    "Risk": 3.33,
-    "Tier": "TIER 4",
-    "Vid": "",
-    "Notes": "A true PPR machine last year, Landry was the go to WR in Miami seeing 165 targets come his way. The Dolphins did clear the coaching house over the offseason, so it remains to be seen if Landry will see that volume type again under Adam Gase. However, even with a slight dip Landry is still a very solid option. It's pretty special when a player can have only four TDs and finish as a WR1. He's very likely to return value on his draft price."
-  },
-  {
     "Player": "Golden Tate DET (10)",
-    "BallersRank": 21,
+    "BallersRank": 20,
     "ADP": 5.11,
-    "Projected Pts.": 239.03,
+    "Projected Pts.": 242.43,
     "Risk": 3.17,
     "Tier": "TIER 4",
     "Vid": "",
     "Notes": "Golden Tate has seen has reception volume spike since moving to Detroit and now Calvin Johnson has announced his retirement. Despite the 90 catches Tate had last year, it was a bit of an anomalous year. He only averaged 9.0 yards per catch, the worst of his career. Until last season, he had never been under 10.8 and he had averaged a little over 14 yards per catch the previous three seasons. Tate seems like a lock for at least 100 receptions and could easily finish the year as a strong WR2."
+  },
+  {
+    "Player": "Jarvis Landry MIA (8)",
+    "BallersRank": 21,
+    "ADP": 4.04,
+    "Projected Pts.": 242.5,
+    "Risk": 3.33,
+    "Tier": "TIER 4",
+    "Vid": "",
+    "Notes": "A true PPR machine last year, Landry was the go to WR in Miami seeing 165 targets come his way. The Dolphins did clear the coaching house over the offseason, so it remains to be seen if Landry will see that volume type again under Adam Gase. However, even with a slight dip Landry is still a very solid option. It's pretty special when a player can have only four TDs and finish as a WR1. He's very likely to return value on his draft price."
   },
   {
     "Player": "Larry Fitzgerald ARI (9)",
@@ -223,21 +223,21 @@
     "Player": "Randall Cobb GB (4)",
     "BallersRank": 23,
     "ADP": 3.11,
-    "Projected Pts.": 231.8,
+    "Projected Pts.": 236.07,
     "Risk": 4.5,
     "Tier": "TIER 5",
     "Vid": "",
     "Notes": "The table was set for Cobb to have the greatest season of his career. He was coming off a WR1 performance. He was being wooed by the Raiders, but took a smaller deal to stay with Green Bay. Then, Jordy Nelson went down in Preseason. The horn had blown and Cobb needed to elevate his game and become the no.1 receiver on the Packers. (Cue Price is Right failure horn). Cobb was exposed as someone that needs to not be the focal point. The good news is Jordy Nelson is coming back and Cobb's ADP will be down because of the '15 debacle. Just remember, both Cobb and Nelson were WR1's in 2014."
   },
   {
-    "Player": "Jordan Matthews PHI (4)",
-    "BallersRank": 23,
-    "ADP": 7.08,
-    "Projected Pts.": 233.33,
-    "Risk": 5.63,
+    "Player": "Marvin Jones DET (10)",
+    "BallersRank": 24,
+    "ADP": 6.04,
+    "Projected Pts.": 230.77,
+    "Risk": 4.37,
     "Tier": "TIER 5",
     "Vid": "",
-    "Notes": "Matthews had high expectations from a lot of fantasy players last season. He did finish as a WR2. He also won the prestigious 'Garbage Man' Footie award from the FootClan. Matthews had a much better 2nd half of the year, similar to his QB Sam Bradford. We have a chicken/egg situation between those two. It could all be for nothing as the Eagles 'took it to the limit' and drafted Carson Wentz. A lot of speculation is floating around if Matthews will continue to man the slot or if he will move outside. The upside exists, the ADP value will likely be there, but the production may not be."
+    "Notes": "Jones will be doing his best to replace future HOF member Calvin Johnson. While that's an impossible task, Jones was considered the top FA wide receiver available this year. He has the size and has shown big play ability (who can forget the four touchdown game). Stafford was quietly one of the best fantasy QBs during the second half of the season, AKA as soon as Jim Bob Cooter took over. Jones is an intriguing player this year and going quite late in drafts. He's near the top of the list for late round WR targets."
   },
   {
     "Player": "Michael Floyd ARI (9)",
@@ -250,18 +250,8 @@
     "Notes": "Floyd suffered a pretty catastrophic hand injury during training camp where his knuckles reportedly burst through the skin of his hand. I'm not a doctor, but I'd say that's not good for a person that catches a football for a living. He was 'cleared' and ready to play when the season opened, but John Brown was ahead of him on the depth chart. Eventually Floyd caught up to game speed and in the process had 100+ receiving yards in five of his last eight games. Floyd is also in a contract year if that's something you find interesting."
   },
   {
-    "Player": "Marvin Jones DET (10)",
-    "BallersRank": 25,
-    "ADP": 6.04,
-    "Projected Pts.": 230.77,
-    "Risk": 4.37,
-    "Tier": "TIER 5",
-    "Vid": "",
-    "Notes": "Jones will be doing his best to replace future HOF member Calvin Johnson. While that's an impossible task, Jones was considered the top FA wide receiver available this year. He has the size and has shown big play ability (who can forget the four touchdown game). Stafford was quietly one of the best fantasy QBs during the second half of the season, AKA as soon as Jim Bob Cooter took over. Jones is an intriguing player this year and going quite late in drafts. He's near the top of the list for late round WR targets."
-  },
-  {
     "Player": "Eric Decker NYJ (11)",
-    "BallersRank": 27,
+    "BallersRank": 26,
     "ADP": 4.11,
     "Projected Pts.": 229.63,
     "Risk": 2.33,
@@ -271,13 +261,23 @@
   },
   {
     "Player": "Kelvin Benjamin CAR (7)",
-    "BallersRank": 28,
+    "BallersRank": 27,
     "ADP": 4.01,
-    "Projected Pts.": 226.27,
+    "Projected Pts.": 226.63,
     "Risk": 6.33,
     "Tier": "TIER 5",
     "Vid": "",
     "Notes": "Benjamin went down with an ACL injury before beginning his sophomore season. Very unfortunate considering he was coming off a strong rookie year with over 1000 yards and nine touchdowns. The problem is when Benjamin's production occurred during the games. He scored a high majority of his points in the 4th quarter while the Panthers were trailing. Points are points, but that production can't be sustained. But then 2015 became the year of Cam. Many questions surround Benjamin, was he a product of garbage time, how will he fit in an offense that was so prolific last year, will his injury hamper his play?"
+  },
+  {
+    "Player": "Donte Moncrief IND (10)",
+    "BallersRank": 28,
+    "ADP": 4.08,
+    "Projected Pts.": 225.27,
+    "Risk": 4.17,
+    "Tier": "TIER 5",
+    "Vid": "",
+    "Notes": "Moncrief started the year hot with touchdowns in five of the first seven games. But the breakout dream died shortly after, along with the Colts' offense. Luck was horrible and injured. Hasselbeck did the best he could while the offensive line let him be destroyed on a weekly basis. Luckily Moncrief is still flying mostly under the radar for fantasy players, but the upside is real. If Luck is going to be a stud for fantasy, Moncrief will absolutely be a part of it."
   },
   {
     "Player": "Doug Baldwin SEA (5)",
@@ -291,9 +291,9 @@
   },
   {
     "Player": "John Brown ARI (9)",
-    "BallersRank": 30,
+    "BallersRank": 29,
     "ADP": 6.12,
-    "Projected Pts.": 222.47,
+    "Projected Pts.": 222.8,
     "Risk": 3.83,
     "Tier": "TIER 5",
     "Vid": "",
@@ -323,21 +323,11 @@
     "Player": "Michael Crabtree OAK (10)",
     "BallersRank": 33,
     "ADP": 8.06,
-    "Projected Pts.": 216.8,
+    "Projected Pts.": 217.63,
     "Risk": 3.7,
     "Tier": "TIER 6",
     "Vid": "",
     "Notes": "Who's laughing now? Crabtree resurrected the the carcass that was his career, and dropped the second best stat line of his career, with the help of Derek Carr and company. Crabtree was the go to possession guy for Oakland last year. The dirty truth from Oakland last year? Crabtree finished as the better fantasy player than Amari Cooper. Looking forward to 2016, it would be no surprise to see Cooper be the man in Oakland, but Crabtree won't be thrown into the trash by the team like he is by fantasy players. He's shaping up like a solid value pick."
-  },
-  {
-    "Player": "Donte Moncrief IND (10)",
-    "BallersRank": 33,
-    "ADP": 4.08,
-    "Projected Pts.": 215,
-    "Risk": 4.17,
-    "Tier": "TIER 6",
-    "Vid": "",
-    "Notes": "Moncrief started the year hot with touchdowns in five of the first seven games. But the breakout dream died shortly after, along with the Colts' offense. Luck was horrible and injured. Hasselbeck did the best he could while the offensive line let him be destroyed on a weekly basis. Luckily Moncrief is still flying mostly under the radar for fantasy players, but the upside is real. If Luck is going to be a stud for fantasy, Moncrief will absolutely be a part of it."
   },
   {
     "Player": "Willie Snead NO (5)",
@@ -350,18 +340,18 @@
     "Notes": "(Cue The Danger Zone) The Need For Snead ended up as the second best rookie WR for fantasy. It was one of those surprises that shouldn't have been a surprise. Snead finished the year on the cusp of 1000 yards. He looks to be locked as the WR2 for a Drew Brees lead offense. Despite the breakout year, drafters are not paying attention to Snead. The upside is real, and the cost is pennies."
   },
   {
-    "Player": "Sterling Shepard NYG (8)",
-    "BallersRank": 36,
-    "ADP": 8.02,
-    "Projected Pts.": 203.27,
-    "Risk": 4.67,
+    "Player": "Jordan Matthews PHI (4)",
+    "BallersRank": 35,
+    "ADP": 7.08,
+    "Projected Pts.": 215.8,
+    "Risk": 5.63,
     "Tier": "TIER 6",
     "Vid": "",
-    "Notes": "It's a good thing when coming out of college a few people are comparing you to rising superstar Odell Beckham Jr. The weird thing is when the team that already has OBJ drafts you. Despite that, the landing spot for Shepard is about as good as it gets. He will immediately slide into the slot, and the Giants run more three wide receiver sets than any team in the league."
+    "Notes": "Matthews had high expectations from a lot of fantasy players last season. He did finish as a WR2. He also won the prestigious 'Garbage Man' Footie award from the FootClan. Matthews had a much better 2nd half of the year, similar to his QB Sam Bradford. We have a chicken/egg situation between those two. It could all be for nothing as the Eagles 'took it to the limit' and drafted Carson Wentz. A lot of speculation is floating around if Matthews will continue to man the slot or if he will move outside. The upside exists, the ADP value will likely be there, but the production may not be."
   },
   {
     "Player": "Tyler Lockett SEA (5)",
-    "BallersRank": 37,
+    "BallersRank": 36,
     "ADP": 6.12,
     "Projected Pts.": 211.83,
     "Risk": 4.8,
@@ -370,18 +360,18 @@
     "Notes": "The Seahawks traded a lot to move up and grab Lockett. He returned the investment immediately on special teams, becoming the most dynamic kick returner in the league. The first half of the year though, brought little fantasy value as a WR. The second half was a much different story. The first nine games, he had 29 targets. The final 7, he shot up to 40, and his production rose as well. Lockett should be 'locked in' (BOOM) as the second WR in Seattle. If the offense truly runs through Russell Wilson, Lockett can be strong fantasy player."
   },
   {
-    "Player": "DeVante Parker MIA (8)",
-    "BallersRank": 38,
-    "ADP": 8.06,
-    "Projected Pts.": 205.53,
-    "Risk": 6.63,
+    "Player": "Sterling Shepard NYG (8)",
+    "BallersRank": 37,
+    "ADP": 8.02,
+    "Projected Pts.": 201.27,
+    "Risk": 4.67,
     "Tier": "TIER 6",
     "Vid": "",
-    "Notes": "The highly touted prospect saw his rookie campaign derailed by a foot injury and Rishard Matthews. However, when he finally got his chance he did put up some very solid numbers. He averaged over 74 yards a game over the last six weeks and that includes only one clunker. Parker is the type of player that could easily get the Hype Train rolling and see his ADP skyrocket. If it ends up spiraling out of control, it's likely best to pass on the investment."
+    "Notes": "It's a good thing when coming out of college a few people are comparing you to rising superstar Odell Beckham Jr. The weird thing is when the team that already has OBJ drafts you. Despite that, the landing spot for Shepard is about as good as it gets. He will immediately slide into the slot, and the Giants run more three wide receiver sets than any team in the league."
   },
   {
     "Player": "Allen Hurns JAC (5)",
-    "BallersRank": 39,
+    "BallersRank": 38,
     "ADP": 6.04,
     "Projected Pts.": 203.63,
     "Risk": 4.83,
@@ -391,7 +381,7 @@
   },
   {
     "Player": "Kamar Aiken BAL (8)",
-    "BallersRank": 40,
+    "BallersRank": 39,
     "ADP": 10.12,
     "Projected Pts.": 203.33,
     "Risk": 4.33,
@@ -400,30 +390,20 @@
     "Notes": "Nobody wants to roster Aiken. Nobody wants to play Aiken. However, if Smith isn't ready to go and Perriman struggles in his unofficial rookie year, Aiken is likely to be the beneficiary. Yes the team signed Mike Wallace, a player on his fourth team in five years, clearly NFL teams love him. Aiken wasn't a dominant force by any stretch, but he was a useful piece for fantasy teams."
   },
   {
-    "Player": "Torrey Smith SF (8)",
-    "BallersRank": 41,
-    "ADP": 10.02,
-    "Projected Pts.": 198.13,
-    "Risk": 5.97,
+    "Player": "DeVante Parker MIA (8)",
+    "BallersRank": 40,
+    "ADP": 8.06,
+    "Projected Pts.": 193.87,
+    "Risk": 6.63,
     "Tier": "TIER 6",
     "Vid": "",
-    "Notes": "Smith is being left for dead in San Francisco. Things we do know about Smith, he has had a season of over 1000 yards and a season of double-digit scoring. Kelly will be bringing his high volume offense now leading to a bulk increase in snaps. Boldin and Vernon Davis are no longer around. Smith has talent and opportunity to do some damage."
-  },
-  {
-    "Player": "Kevin White CHI (9)",
-    "BallersRank": 41,
-    "ADP": 8.12,
-    "Projected Pts.": 193.03,
-    "Risk": 5.7,
-    "Tier": "TIER 7",
-    "Vid": "",
-    "Notes": "The seventh pick of the 2014 NFL draft lost his entire rookie season to a stress fracture in his shin. Although if you ask John Fox about it, White is likely still probable. The measurables are off the charts for White, 6'3\"/215lbs/ran a 4.35 at the combine. He was raw coming into the draft, so he's still raw now with no game experience, but the upside is tremendous. White won't be the first option as long as Alshon is around, but paired with canon-armed Jay Cutler is fantastic. If his price stays around the 8th round, dive in."
+    "Notes": "The highly touted prospect saw his rookie campaign derailed by a foot injury and Rishard Matthews. However, when he finally got his chance he did put up some very solid numbers. He averaged over 74 yards a game over the last six weeks and that includes only one clunker. Parker is the type of player that could easily get the Hype Train rolling and see his ADP skyrocket. If it ends up spiraling out of control, it's likely best to pass on the investment."
   },
   {
     "Player": "Stefon Diggs MIN (6)",
-    "BallersRank": 43,
+    "BallersRank": 41,
     "ADP": 9.01,
-    "Projected Pts.": 177.23,
+    "Projected Pts.": 182.57,
     "Risk": 5.53,
     "Tier": "TIER 7",
     "Vid": "",
@@ -431,17 +411,27 @@
   },
   {
     "Player": "Vincent Jackson TB (6)",
-    "BallersRank": 43,
+    "BallersRank": 42,
     "ADP": 11.03,
-    "Projected Pts.": 182.5,
+    "Projected Pts.": 184.61,
     "Risk": 6.47,
     "Tier": "TIER 7",
     "Vid": "",
     "Notes": "Jackson's season was marred by injury and poor play. The truth is he simply may have hit the wall. His production has dropped the past two years. The positive spin for Jackson is he's still the second option on an evolving offense. Winston showed a solid improvement over the year. He's being left for dead by fantasy players, going extremely late. It's unlikely to see him bounceback to elite form, but it wouldn't be all that surprising to see him have a solid year."
   },
   {
+    "Player": "Torrey Smith SF (8)",
+    "BallersRank": 42,
+    "ADP": 10.02,
+    "Projected Pts.": 184.87,
+    "Risk": 5.97,
+    "Tier": "TIER 7",
+    "Vid": "",
+    "Notes": "Smith is being left for dead in San Francisco. Things we do know about Smith, he has had a season of over 1000 yards and a season of double-digit scoring. Kelly will be bringing his high volume offense now leading to a bulk increase in snaps. Boldin and Vernon Davis are no longer around. Smith has talent and opportunity to do some damage."
+  },
+  {
     "Player": "Corey Coleman CLE (13)",
-    "BallersRank": 45,
+    "BallersRank": 44,
     "ADP": 9.1,
     "Projected Pts.": 179.2,
     "Risk": 5.5,
@@ -451,7 +441,7 @@
   },
   {
     "Player": "Mohamed Sanu ATL (11)",
-    "BallersRank": 46,
+    "BallersRank": 45,
     "ADP": 11.07,
     "Projected Pts.": 180.67,
     "Risk": 4.83,
@@ -460,14 +450,24 @@
     "Notes": "Sanu signed a brand new contract in Atlanta. The fit seems decent, the need was great from Atlanta. But, as far as great fantasy production, it will be hard to expect that from Sanu. In Kyle Shanahan's offense, the second and third WRs on the team simply don't see many targets. In the last three years, non WR1s haven't seen more than 80 targets in the KShy system. Sanu will have solid weeks here and there, but likely a tough player to stash."
   },
   {
-    "Player": "Terrance Williams DAL (7)",
-    "BallersRank": 47,
-    "ADP": 0,
-    "Projected Pts.": 178.57,
-    "Risk": 4.17,
+    "Player": "Rishard Matthews TEN (13)",
+    "BallersRank": 46,
+    "ADP": 12.09,
+    "Projected Pts.": 178.33,
+    "Risk": 5.3,
     "Tier": "TIER 7",
     "Vid": "",
-    "Notes": "Terrence 'TD' Williams had a pretty tremendous opportunity last year with Dez going down for large portion of the year. Unfortunately for him, Romo went down and Williams was left as the no.1 WR for teams lead by Brandon Weeden and Kellen Moore. His total yardage from last year looks ok, until you factor in 21% of it game in the last week of the season. Williams did start 2014 with a flurry of TDs before trailing off. It's unlikely Dallas throws enough to sustain Williams with any consistency."
+    "Notes": "Matthews was a pretty big fantasy surprise last year. He managed to keep hyped rookie and first round pick DaVante Parker at bay. Of the 10 full games he played last year, he basically only crapped the bed in two of them. This offseason he was picked up by the Titans. He should automatically become a starter and will see his share of the targets. He's being abandoned on in drafts and could be the savvy pickup from that WR core."
+  },
+  {
+    "Player": "Chris Hogan NE (9)",
+    "BallersRank": 46,
+    "ADP": 13.06,
+    "Projected Pts.": 179.17,
+    "Risk": 6,
+    "Tier": "TIER 7",
+    "Vid": "",
+    "Notes": "Hogan was given a decent contract from the Pats after the Bills surprisingly decided not to match the free agent offer. Hogan should take over immediately for Brandon Lafell as the WR2 and deep threat. This has been a very productive fantasy role, even for Lafell a few years ago. Hogan is being drastically overlooked and holds some nice late round upside."
   },
   {
     "Player": "Josh Gordon CLE (13)",
@@ -480,48 +480,38 @@
     "Notes": "He's back! Sort of! Eventually! Gordon has been reinstated into the NFL but he's going to have to sit out 4 games. He has been out of the league for a while, and the last time we saw Flash he wasn't really tearing it up. But really, there isn't another WR in the area where Gordon is being drafted that has overall no.1 upside. Big risk, big reward."
   },
   {
-    "Player": "Rishard Matthews TEN (13)",
+    "Player": "Kevin White CHI (9)",
     "BallersRank": 48,
-    "ADP": 12.09,
-    "Projected Pts.": 178.33,
-    "Risk": 5.3,
+    "ADP": 8.12,
+    "Projected Pts.": 170.03,
+    "Risk": 5.7,
     "Tier": "TIER 7",
     "Vid": "",
-    "Notes": "Matthews was a pretty big fantasy surprise last year. He managed to keep hyped rookie and first round pick DaVante Parker at bay. Of the 10 full games he played last year, he basically only crapped the bed in two of them. This offseason he was picked up by the Titans. He should automatically become a starter and will see his share of the targets. He's being abandoned on in drafts and could be the savvy pickup from that WR core."
-  },
-  {
-    "Player": "Kendall Wright TEN (13)",
-    "BallersRank": 50,
-    "ADP": 0,
-    "Projected Pts.": 171.87,
-    "Risk": 4.3,
-    "Tier": "TIER 7",
-    "Vid": "",
-    "Notes": "Wright looked like he could be on his way back into the good graces of fantasy players before going down with injury. A decent PPR type safety valve for Mariota, he has the possibility of seeing a decent number of targets. His upside will be capped by a lack of scoring and the 'exotic smashmouth' offense, but he's interesting at the least."
+    "Notes": "The seventh pick of the 2014 NFL draft lost his entire rookie season to a stress fracture in his shin. Although if you ask John Fox about it, White is likely still probable. The measurables are off the charts for White, 6'3\"/215lbs/ran a 4.35 at the combine. He was raw coming into the draft, so he's still raw now with no game experience, but the upside is tremendous. White won't be the first option as long as Alshon is around, but paired with canon-armed Jay Cutler is fantastic. If his price stays around the 8th round, dive in."
   },
   {
     "Player": "Markus Wheaton PIT (8)",
-    "BallersRank": 51,
+    "BallersRank": 50,
     "ADP": 10.08,
-    "Projected Pts.": 173.13,
+    "Projected Pts.": 173.47,
     "Risk": 4,
     "Tier": "TIER 7",
     "Vid": "",
     "Notes": "Some players are jumping all over the late value of Wheaton with Martavis Bryant being suspended the whole year. He will likely slot in as the WR2 on the team with Coates and Heyward-Bey behind him. The problem is Wheaton wasn't effective as a replacement and was actually statistically better in games that Bryant played."
   },
   {
-    "Player": "Devin Funchess CAR (7)",
-    "BallersRank": 52,
-    "ADP": 9.07,
-    "Projected Pts.": 167,
-    "Risk": 5.5,
+    "Player": "Terrance Williams DAL (7)",
+    "BallersRank": 51,
+    "ADP": 0,
+    "Projected Pts.": 171.4,
+    "Risk": 4.17,
     "Tier": "TIER 7",
     "Vid": "",
-    "Notes": "When Kelvin Benjamin went down with an ACL in training camp, the immediate Funchess hype grew to legendary proportions. He delivered on the hype only with the exact opposite production. He was an afterthought for much of the season. Moving forward, Funchess paired with Benjamin provides a very unique WR tandem. Neither being overly athletic, but both towering over the average DB. Funchess is simply a flier at this point."
+    "Notes": "Terrence 'TD' Williams had a pretty tremendous opportunity last year with Dez going down for large portion of the year. Unfortunately for him, Romo went down and Williams was left as the no.1 WR for teams lead by Brandon Weeden and Kellen Moore. His total yardage from last year looks ok, until you factor in 21% of it game in the last week of the season. Williams did start 2014 with a flurry of TDs before trailing off. It's unlikely Dallas throws enough to sustain Williams with any consistency."
   },
   {
     "Player": "Travis Benjamin SD (11)",
-    "BallersRank": 53,
+    "BallersRank": 52,
     "ADP": 10.01,
     "Projected Pts.": 167.83,
     "Risk": 5.17,
@@ -531,7 +521,7 @@
   },
   {
     "Player": "Laquon Treadwell MIN (6)",
-    "BallersRank": 54,
+    "BallersRank": 53,
     "ADP": 14.05,
     "Projected Pts.": 164.1,
     "Risk": 4.5,
@@ -540,8 +530,18 @@
     "Notes": "Draft Twitter's no.1 WR from the 2016 class. But ultimately the fourth WR taken in the draft. The landing spot is great and terrible at the same time. Treadwell comes in to a position of being the man. Teddy Bridgewater hasn't shown the ability to sustain any pass catchers as a true fantasy asset. The question can be asked, was this on Teddy or on the rest of the offense. Minnesota must believe it's on the rest of the offense by grabbing Treadwell in the first round. A weekly TD threat, but likely to be inconsistent this year."
   },
   {
-    "Player": "Terrelle Pryor CLE (13)",
+    "Player": "Devin Funchess CAR (7)",
     "BallersRank": 54,
+    "ADP": 9.07,
+    "Projected Pts.": 167,
+    "Risk": 5.5,
+    "Tier": "TIER 8",
+    "Vid": "",
+    "Notes": "When Kelvin Benjamin went down with an ACL in training camp, the immediate Funchess hype grew to legendary proportions. He delivered on the hype only with the exact opposite production. He was an afterthought for much of the season. Moving forward, Funchess paired with Benjamin provides a very unique WR tandem. Neither being overly athletic, but both towering over the average DB. Funchess is simply a flier at this point."
+  },
+  {
+    "Player": "Terrelle Pryor CLE (13)",
+    "BallersRank": 55,
     "ADP": 13.11,
     "Projected Pts.": 166.5,
     "Risk": 7.67,
@@ -560,28 +560,18 @@
     "Notes": "Dorsett was one of the strangest picks in last year's NFL draft, as he compared to TY Hilton, who was already on the Colts. He spent last year buried on the depth chart and dealing with injury. He has moved up the chart by default with the absence of Andre Johnson. Things also look up with the information the Colts look to move to more three wide receiver sets. The ceiling will be limited for Dorsett as long as Moncrief and Hilton remain healthy."
   },
   {
-    "Player": "Sammie Coates PIT (8)",
+    "Player": "Kendall Wright TEN (13)",
     "BallersRank": 57,
-    "ADP": 13.01,
-    "Projected Pts.": 150.37,
-    "Risk": 6,
-    "Tier": "TIER 8",
-    "Vid": "",
-    "Notes": "The sophomore could see a huge jump in playing time with Martavis Bryant getting himself suspended for the year. He's a very athletically gifted player and will be a name to watch over training camp and the preseason. He's being drafted after Markus Wheaton and can very realistically outperform him."
-  },
-  {
-    "Player": "Rueben Randle PHI (4)",
-    "BallersRank": 58,
     "ADP": 0,
-    "Projected Pts.": 154.4,
-    "Risk": 5.7,
+    "Projected Pts.": 158.97,
+    "Risk": 4.3,
     "Tier": "TIER 8",
     "Vid": "",
-    "Notes": "ROOBS! Randle is basically a fantasy landmine, the kind once you stand on it you can't move because you know as soon you do he's gonna have an explosive game. This trap is best left alone. If he lures you in again it will be because he's now on the Eagles and the team hasn't seem to found it's WR1. Matthews may or may not simply be a glorified slot WR and Agholor underwhelmed in terrific fashion. The mantra of those that draft Roobs - Abandon all hope 'ye who enter."
+    "Notes": "Wright looked like he could be on his way back into the good graces of fantasy players before going down with injury. A decent PPR type safety valve for Mariota, he has the possibility of seeing a decent number of targets. His upside will be capped by a lack of scoring and the 'exotic smashmouth' offense, but he's interesting at the least."
   },
   {
     "Player": "Tyler Boyd CIN (9)",
-    "BallersRank": 59,
+    "BallersRank": 58,
     "ADP": 12.04,
     "Projected Pts.": 155.77,
     "Risk": 6.03,
@@ -590,28 +580,28 @@
     "Notes": "Boyd, similar to Will Fuller, gets to plug into a solid offense that already has an elite WR option. Cinci has a lot of targets to makeup as they lost Sanu and Marvin Jones this year. Boyd could be a day one starter if he can beat out veteran Brandon Lafell, but it's a long path to see him in a starting fantasy roster anytime soon."
   },
   {
-    "Player": "Chris Hogan NE (9)",
-    "BallersRank": 60,
-    "ADP": 13.06,
-    "Projected Pts.": 146.33,
+    "Player": "Sammie Coates PIT (8)",
+    "BallersRank": 59,
+    "ADP": 13.01,
+    "Projected Pts.": 148.37,
     "Risk": 6,
     "Tier": "TIER 8",
     "Vid": "",
-    "Notes": "Hogan was given a decent contract from the Pats after the Bills surprisingly decided not to match the free agent offer. Hogan should take over immediately for Brandon Lafell as the WR2 and deep threat. This has been a very productive fantasy role, even for Lafell a few years ago. Hogan is being drastically overlooked and holds some nice late round upside."
+    "Notes": "The sophomore could see a huge jump in playing time with Martavis Bryant getting himself suspended for the year. He's a very athletically gifted player and will be a name to watch over training camp and the preseason. He's being drafted after Markus Wheaton and can very realistically outperform him."
   },
   {
-    "Player": "Tavon Austin LA (8)",
-    "BallersRank": 61,
-    "ADP": 11.04,
-    "Projected Pts.": 150.17,
-    "Risk": 4.83,
+    "Player": "Kenny Stills MIA (8)",
+    "BallersRank": 60,
+    "ADP": 13.12,
+    "Projected Pts.": 121.7,
+    "Risk": 6,
     "Tier": "TIER 8",
     "Vid": "",
-    "Notes": "Tavon 'The Gadget' Austin finished the year as a WR2. That's right, a top-24 WR, essentially on the back of four great games. If you played him during any of those weeks, you felt like a genius. He's just so inconsistent and on a low-scoring offense to really be given a serious thought to be on your fantasy roster."
+    "Notes": ""
   },
   {
     "Player": "Pierre Garcon WAS (9)",
-    "BallersRank": 62,
+    "BallersRank": 61,
     "ADP": 0,
     "Projected Pts.": 133.57,
     "Risk": 6.7,
@@ -621,23 +611,33 @@
   },
   {
     "Player": "Mike Wallace BAL (8)",
-    "BallersRank": 63,
+    "BallersRank": 62,
     "ADP": 14.02,
-    "Projected Pts.": 144.73,
+    "Projected Pts.": 147.87,
     "Risk": 7.33,
     "Tier": "TIER 8",
     "Vid": "",
     "Notes": "Wallace now finds himself on his fourth team in five years. He was an interesting signing for the Ravens as his best attributes are the best attributes of Rookie-Sophmore Breshad Perriman. The team was forced into a bad position from injuries last year, and clearly they don't want that to happen again. But Wallace's true role on the offense is still a bit of a mystery."
   },
   {
-    "Player": "Will Fuller HOU (9)",
-    "BallersRank": 64,
-    "ADP": 13.08,
-    "Projected Pts.": 141.43,
-    "Risk": 7.2,
+    "Player": "Tavon Austin LA (8)",
+    "BallersRank": 63,
+    "ADP": 11.04,
+    "Projected Pts.": 150.17,
+    "Risk": 4.83,
     "Tier": "TIER 8",
     "Vid": "",
-    "Notes": "A pretty cushy landing spot for Fuller. On the Texans he won't have to carry the burden like Coleman or Treadwell right out the gate. He can let Hopkins draw the coverage while Fuller goes to work. The upside for Fuller, the team looks to have gone all in on a higher powered offense bringing in Miller/Osweiler/Fuller. The downside, Fuller has been compared to Ted Ginn...."
+    "Notes": "Tavon 'The Gadget' Austin finished the year as a WR2. That's right, a top-24 WR, essentially on the back of four great games. If you played him during any of those weeks, you felt like a genius. He's just so inconsistent and on a low-scoring offense to really be given a serious thought to be on your fantasy roster."
+  },
+  {
+    "Player": "Tajae Sharpe TEN (13)",
+    "BallersRank": 64,
+    "ADP": 11.12,
+    "Projected Pts.": 145.67,
+    "Risk": 5,
+    "Tier": "TIER 8",
+    "Vid": "",
+    "Notes": "Tajae Sharpe was a leader in the NCAA in receptions and has received a lot of buzz around the Titans camp this offseason. Early reports were that he was running ahead of \"budding superstar\" Dorial Green-Beckham. At first it was assumed that it was only to motivate DGB. After the first few preseason games however, it seems Sharpe might be the real deal. He appears set to be a starter who is capable of making tough NFL catches."
   },
   {
     "Player": "Dorial Green-Beckham PHI (4)",
@@ -650,8 +650,18 @@
     "Notes": "TRADED! The Titans couldn't get rid of their 2015 2nd round pick fast enough and for cheap enough. Perhaps DGB finds new life in Philly, but unless some serious soul searching happens, he looks like a major pro bust."
   },
   {
-    "Player": "Nelson Agholor PHI (4)",
+    "Player": "Will Fuller HOU (9)",
     "BallersRank": 66,
+    "ADP": 13.08,
+    "Projected Pts.": 141.43,
+    "Risk": 7.2,
+    "Tier": "TIER 8",
+    "Vid": "",
+    "Notes": "A pretty cushy landing spot for Fuller. On the Texans he won't have to carry the burden like Coleman or Treadwell right out the gate. He can let Hopkins draw the coverage while Fuller goes to work. The upside for Fuller, the team looks to have gone all in on a higher powered offense bringing in Miller/Osweiler/Fuller. The downside, Fuller has been compared to Ted Ginn...."
+  },
+  {
+    "Player": "Nelson Agholor PHI (4)",
+    "BallersRank": 67,
     "ADP": 0,
     "Projected Pts.": 130.67,
     "Risk": 5.7,
@@ -660,20 +670,10 @@
     "Notes": "Agholor was gifted/cursed with the expectations to produce similar to previous wide receivers in Chip Kelly's offense. Unfortunately, Agholor was not up to the task. Technically Philly's no.1 WR as far as snaps, he would frequently get the oppositions best outside corner. Poor production and injury have left fantasy players abandoning Agholor and not even looking back to see if he's ok. Now in a brand new offense, Agholor's outcome is murky and meh."
   },
   {
-    "Player": "Bruce Ellington SF (8)",
-    "BallersRank": 67,
-    "ADP": 0,
-    "Projected Pts.": 138,
-    "Risk": 5,
-    "Tier": "TIER 8",
-    "Vid": "",
-    "Notes": "Bruce Ellington has had rave reviews in early training camp and is a clear starter for the Chip Kelley offense. With more plays being run per game in a Chip Kelley offense, and the absence of Anquan Bolden, there is an opportunity for some wide receiver to step up and make an impact on fantasy."
-  },
-  {
     "Player": "Ted Ginn CAR (7)",
     "BallersRank": 68,
     "ADP": 14.04,
-    "Projected Pts.": 132.03,
+    "Projected Pts.": 134.53,
     "Risk": 5.3,
     "Tier": "TIER 8",
     "Vid": "",
@@ -690,8 +690,18 @@
     "Notes": "After a very strong season with the Patriots, there were actually some expectations for Lafell last year. Unfortunately he started the season on unable to play due to injury. When he finally got on the field, things were unpleasant to say the least. The Panthers version of LaFell showed up, and he was shown the door following the end of the season. He's got another opportunity with the Bengals, who have a pretty strong need in the WR area. Speaking for fantasy, it seems unlikely he will have an impact besides a couple touchdowns here and there."
   },
   {
+    "Player": "Anquan Boldin DET (10)",
+    "BallersRank": 70,
+    "ADP": 0,
+    "Projected Pts.": 127.9,
+    "Risk": 3.67,
+    "Tier": "TIER 8",
+    "Vid": "",
+    "Notes": "Old man Boldin is still getting it done again. He has signed with the Detroit Lions and has already played himself into the primary slot receiver for this team. He's looked solid in camp and should be on the field a lot in 2016. The problem is he won't be racking up enough yards or TDs in this role to be a fantasy starter. We'd rather take a riskier pick with more upside."
+  },
+  {
     "Player": "Andrew Hawkins CLE (13)",
-    "BallersRank": 69,
+    "BallersRank": 70,
     "ADP": 0,
     "Projected Pts.": 133.17,
     "Risk": 5,
@@ -701,9 +711,9 @@
   },
   {
     "Player": "Davante Adams GB (4)",
-    "BallersRank": 71,
+    "BallersRank": 72,
     "ADP": 0,
-    "Projected Pts.": 130.97,
+    "Projected Pts.": 132.97,
     "Risk": 7,
     "Tier": "TIER 8",
     "Vid": "",
@@ -711,7 +721,7 @@
   },
   {
     "Player": "Steve Smith BAL (8)",
-    "BallersRank": 72,
+    "BallersRank": 73,
     "ADP": 11.09,
     "Projected Pts.": 128.67,
     "Risk": 8.37,
@@ -721,7 +731,7 @@
   },
   {
     "Player": "Danny Amendola NE (9)",
-    "BallersRank": 73,
+    "BallersRank": 74,
     "ADP": 0,
     "Projected Pts.": 119.67,
     "Risk": 6.67,
@@ -731,37 +741,27 @@
   },
   {
     "Player": "Josh Doctson WAS (9)",
-    "BallersRank": 73,
+    "BallersRank": 75,
     "ADP": 0,
-    "Projected Pts.": 118.8,
+    "Projected Pts.": 116.8,
     "Risk": 6,
     "Tier": "TIER 8",
     "Vid": "",
     "Notes": "A surprise pick for Washington in the draft. The team wasn't considered to be WR needy, so the fact they took Doctson here speaks loudly of their belief in the player. He has a few roadblocks in front of him for this season, namely DJax and Pierre Garcon. However, there is a possibility of one of those veterans being cut before the season, or being sat in favor of the explosive rookie."
   },
   {
-    "Player": "",
-    "BallersRank": "",
+    "Player": "Jamison Crowder WAS (9)",
+    "BallersRank": 76,
     "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
+    "Projected Pts.": 97.33,
+    "Risk": 2,
     "Tier": "TIER 9",
     "Vid": "",
     "Notes": ""
   },
   {
-    "Player": "Victor Cruz NYG (8)",
-    "BallersRank": 75,
-    "ADP": 0,
-    "Projected Pts.": 85,
-    "Risk": 8.5,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": "Cruz is now a few years removed from his horrifying primetime knee injury. He had said he was going to return last year until a calf injury ended up holding him out for the season. He says he will be ready to go this season, but is still working out on the side of practice. He's an interesting pick if he actually plays, but his return remains to be seen."
-  },
-  {
     "Player": "Michael Thomas NO (5)",
-    "BallersRank": 75,
+    "BallersRank": 77,
     "ADP": 10.06,
     "Projected Pts.": 111.1,
     "Risk": 6.7,
@@ -770,8 +770,18 @@
     "Notes": "Another rookie that hit the jackpot for a landing spot. When you play WR for the Saints, you have to be just awful at your job to have no fantasy value. Brees is still one of the top QBs in the league, and the Saints offense lets him gun it. Thomas will have to beat out Brandon Coleman to have any kind of real playing time this year, but there's a better chance of that happening than not."
   },
   {
+    "Player": "Malcolm Mitchell NE (9)",
+    "BallersRank": 78,
+    "ADP": 0,
+    "Projected Pts.": 109.6,
+    "Risk": 6.67,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": "Malcolm Mitchell is a great route runner with good hands. He couldn't have found a better spot than landing in New England with Tom Brady. After tearing up the field in his first preseason game, he unfortunately tore up his elbow and will be out for a few weeks. The injury along with Brady's suspension means that Mitchell will usually go undrafted, but keep your eye on him as a great prospect."
+  },
+  {
     "Player": "Jermaine Kearse SEA (5)",
-    "BallersRank": 77,
+    "BallersRank": 79,
     "ADP": 0,
     "Projected Pts.": 86.17,
     "Risk": 3.25,
@@ -780,18 +790,8 @@
     "Notes": "Kearse went looking for a contract in free agency, but ended up back with Seattle. The positive: Kearse's numbers have steadily increased each season. The negative: Kearse could see himself behind Tyler Lockett in the pecking order."
   },
   {
-    "Player": "Albert Wilson KC (5)",
-    "BallersRank": 77,
-    "ADP": 0,
-    "Projected Pts.": 89.47,
-    "Risk": 3,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
     "Player": "Brandon Coleman NO (5)",
-    "BallersRank": 79,
+    "BallersRank": 80,
     "ADP": 0,
     "Projected Pts.": 104.17,
     "Risk": 6.83,
@@ -810,34 +810,24 @@
     "Notes": "Strong flashed a bit towards the end of last season. The flash wasn't enough to stop the Texans from spending their first round pick on a WR as well as taking Braxton Miller in the 3rd. Throw on top of that an offseason arrest for marijuana and Strong could find himself on the bench for a long time."
   },
   {
-    "Player": "Anquan Boldin DET (10)",
-    "BallersRank": 81,
+    "Player": "Victor Cruz NYG (8)",
+    "BallersRank": 80,
     "ADP": 0,
-    "Projected Pts.": 73.9,
+    "Projected Pts.": 81,
+    "Risk": 8.5,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": "Cruz is now a few years removed from his horrifying primetime knee injury. He had said he was going to return last year until a calf injury ended up holding him out for the season. He says he will be ready to go this season, but is still working out on the side of practice. He's an interesting pick if he actually plays, but his return remains to be seen."
+  },
+  {
+    "Player": "Albert Wilson KC (5)",
+    "BallersRank": 80,
+    "ADP": 0,
+    "Projected Pts.": 89.47,
     "Risk": 3,
     "Tier": "TIER 9",
     "Vid": "",
-    "Notes": "Old man Boldin is still getting it done again. He has signed with the Detroit Lions and has already played himself into the primary slot receiver for this team. He's looked solid in camp and should be on the field a lot in 2016. The problem is he won't be racking up enough yards or TDs in this role to be a fantasy starter. We'd rather take a riskier pick with more upside."
-  },
-  {
-    "Player": "Chris Conley KC (5)",
-    "BallersRank": 81,
-    "ADP": 0,
-    "Projected Pts.": 75.27,
-    "Risk": 4.5,
-    "Tier": "TIER 9",
-    "Vid": "",
     "Notes": ""
-  },
-  {
-    "Player": "Breshad Perriman BAL (8)",
-    "BallersRank": 83,
-    "ADP": 0,
-    "Projected Pts.": 71.03,
-    "Risk": 6.97,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": "Perriman found himself in the mile long list of Baltimore injuries. He looks to establish himself as the no.1 option for the Ravens with Steve Smith coming off of injury as well. Perriman has the physical tools to be a very interesting WR. Extreme speed (a 4.24 at his pro day) combined with Joe Flacco's arm and Marc Trestman's offense could turn into a high yield fantasy situation. We saw Torrey Smith have some very productive seasons in Baltimore, look for Perriman to provide a great late round value."
   },
   {
     "Player": "Eddie Royal CHI (9)",
@@ -850,11 +840,221 @@
     "Notes": "Things lined up well for Royal last year. A return to the QB that made him fantasy relevant, and an injury to rookie Kevin White opened up a lot of possible playing time. Royal was unable to do much with the time he had and then dealt with his own injuries. The magic isn't going ot return for Royal."
   },
   {
-    "Player": "Jamison Crowder WAS (9)",
+    "Player": "Chris Conley KC (5)",
     "BallersRank": 85,
     "ADP": 0,
-    "Projected Pts.": 49.5,
-    "Risk": 2,
+    "Projected Pts.": 75.27,
+    "Risk": 4.5,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Breshad Perriman BAL (8)",
+    "BallersRank": 86,
+    "ADP": 0,
+    "Projected Pts.": 71.03,
+    "Risk": 6.97,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": "Perriman found himself in the mile long list of Baltimore injuries. He looks to establish himself as the no.1 option for the Ravens with Steve Smith coming off of injury as well. Perriman has the physical tools to be a very interesting WR. Extreme speed (a 4.24 at his pro day) combined with Joe Flacco's arm and Marc Trestman's offense could turn into a high yield fantasy situation. We saw Torrey Smith have some very productive seasons in Baltimore, look for Perriman to provide a great late round value."
+  },
+  {
+    "Player": "",
+    "BallersRank": "",
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Justin Hardy ATL (11)",
+    "BallersRank": 87,
+    "ADP": 0,
+    "Projected Pts.": 85.17,
+    "Risk": 4,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Jeff Janis GB (4)",
+    "BallersRank": 88,
+    "ADP": 0,
+    "Projected Pts.": 70.67,
+    "Risk": 7.37,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": "Welp, Janis has broken his hand and simply won't be able to overtake any kind of early season role, much less the WR3 spot for Green Bay. Look to Adams at this point to hold his job."
+  },
+  {
+    "Player": "Cole Beasley DAL (7)",
+    "BallersRank": 89,
+    "ADP": 0,
+    "Projected Pts.": 44.5,
+    "Risk": 4,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Rueben Randle",
+    "BallersRank": 90,
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 3,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": "ROOBS has always been a frustrating player. He has the potential and even the history of some solid fantasy production. But after signing a decent contract with the Eagles he couldn't even make the 53 man roster. Wherever he signs, he won't be more than a SUPER deep bye week flex option, if that."
+  },
+  {
+    "Player": "Ty Montgomery GB (4)",
+    "BallersRank": 91,
+    "ADP": 0,
+    "Projected Pts.": 52.7,
+    "Risk": 5,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Steve Johnson SD (11)",
+    "BallersRank": 92,
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": "Stevie Johnson is a guy we like around here and wish he could stay healthy. Sad to see him missing the 2016 season."
+  },
+  {
+    "Player": "Devin Smith NYJ (11)",
+    "BallersRank": 93,
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 5,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Kenny Britt LA (8)",
+    "BallersRank": 94,
+    "ADP": 0,
+    "Projected Pts.": 33.57,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Philly Brown CAR (7)",
+    "BallersRank": 95,
+    "ADP": 0,
+    "Projected Pts.": 27.33,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Roddy White, FA",
+    "BallersRank": 96,
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Andre Johnson TEN (13)",
+    "BallersRank": 96,
+    "ADP": 0,
+    "Projected Pts.": 35.33,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Cody Latimer DEN (11)",
+    "BallersRank": 98,
+    "ADP": 0,
+    "Projected Pts.": 16.17,
+    "Risk": 4,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Malcom Floyd, FA",
+    "BallersRank": 99,
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Marques Colston, FA",
+    "BallersRank": 100,
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "James Jones SD (11)",
+    "BallersRank": 101,
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Charles Johnson MIN (6)",
+    "BallersRank": 102,
+    "ADP": 0,
+    "Projected Pts.": 26.6,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Marqise Lee JAC (5)",
+    "BallersRank": 103,
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Brian Quick LA (8)",
+    "BallersRank": 104,
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 0,
+    "Tier": "TIER 9",
+    "Vid": "",
+    "Notes": ""
+  },
+  {
+    "Player": "Nate Washington, FA",
+    "BallersRank": 105,
+    "ADP": 0,
+    "Projected Pts.": 0,
+    "Risk": 0,
     "Tier": "TIER 9",
     "Vid": "",
     "Notes": ""
@@ -870,190 +1070,10 @@
     "Notes": ""
   },
   {
-    "Player": "Tajae Sharpe TEN (13)",
-    "BallersRank": 86,
-    "ADP": 11.12,
-    "Projected Pts.": 88.5,
-    "Risk": 5,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": "Tajae Sharpe was a leader in the NCAA in receptions and has received a lot of buzz around the Titans camp this offseason. Early reports were that he was running ahead of \"budding superstar\" Dorial Green-Beckham. At first it was assumed that it was only to motivate DGB. After the first few preseason games however, it seems Sharpe might be the real deal. He appears set to be a starter who is capable of making tough NFL catches."
-  },
-  {
-    "Player": "Jeff Janis GB (4)",
-    "BallersRank": 87,
+    "Player": "Josh Huff PHI (4)",
+    "BallersRank": 106,
     "ADP": 0,
-    "Projected Pts.": 59,
-    "Risk": 7.37,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": "Welp, Janis has broken his hand and simply won't be able to overtake any kind of early season role, much less the WR3 spot for Green Bay. Look to Adams at this point to hold his job."
-  },
-  {
-    "Player": "Cole Beasley DAL (7)",
-    "BallersRank": 87,
-    "ADP": 0,
-    "Projected Pts.": 44.5,
-    "Risk": 4,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Justin Hardy ATL (11)",
-    "BallersRank": 89,
-    "ADP": 0,
-    "Projected Pts.": 59.2,
-    "Risk": 4,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Steve Johnson SD (11)",
-    "BallersRank": 90,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": "Stevie Johnson is a guy we like around here and wish he could stay healthy. Sad to see him missing the 2016 season."
-  },
-  {
-    "Player": "Kenny Stills MIA (8)",
-    "BallersRank": 91,
-    "ADP": 13.12,
-    "Projected Pts.": 31,
-    "Risk": 5,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Malcolm Mitchell NE (9)",
-    "BallersRank": 92,
-    "ADP": 0,
-    "Projected Pts.": 74.77,
-    "Risk": 7.5,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": "Malcolm Mitchell is a great route runner with good hands. He couldn't have found a better spot than landing in New England with Tom Brady. After tearing up the field in his first preseason game, he unfortunately tore up his elbow and will be out for a few weeks. The injury along with Brady's suspension means that Mitchell will usually go undrafted, but keep your eye on him as a great prospect."
-  },
-  {
-    "Player": "Devin Smith NYJ (11)",
-    "BallersRank": 93,
-    "ADP": 0,
-    "Projected Pts.": 28.17,
-    "Risk": 5,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Ty Montgomery GB (4)",
-    "BallersRank": 94,
-    "ADP": 0,
-    "Projected Pts.": 25.33,
-    "Risk": 5,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Roddy White, FA",
-    "BallersRank": 95,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Malcom Floyd, FA",
-    "BallersRank": 96,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Cody Latimer DEN (11)",
-    "BallersRank": 96,
-    "ADP": 0,
-    "Projected Pts.": 16.17,
-    "Risk": 4,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Marques Colston, FA",
-    "BallersRank": 98,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "James Jones SD (11)",
-    "BallersRank": 99,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Philly Brown CAR (7)",
-    "BallersRank": 100,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Marqise Lee JAC (5)",
-    "BallersRank": 101,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Kenny Britt LA (8)",
-    "BallersRank": 102,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Brian Quick LA (8)",
-    "BallersRank": 103,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Nate Washington, FA",
-    "BallersRank": 104,
-    "ADP": 0,
-    "Projected Pts.": 0,
+    "Projected Pts.": 29.17,
     "Risk": 0,
     "Tier": "TIER 9",
     "Vid": "",
@@ -1061,26 +1081,6 @@
   },
   {
     "Player": "Cecil Shorts HOU (9)",
-    "BallersRank": 105,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Andre Johnson TEN (13)",
-    "BallersRank": 106,
-    "ADP": 0,
-    "Projected Pts.": 0,
-    "Risk": 0,
-    "Tier": "TIER 9",
-    "Vid": "",
-    "Notes": ""
-  },
-  {
-    "Player": "Charles Johnson MIN (6)",
     "BallersRank": 107,
     "ADP": 0,
     "Projected Pts.": 0,
@@ -1160,7 +1160,7 @@
     "Notes": ""
   },
   {
-    "Player": "Josh Huff PHI (4)",
+    "Player": "Cordarrelle Patterson MIN (6)",
     "BallersRank": 115,
     "ADP": 0,
     "Projected Pts.": 0,
@@ -1170,7 +1170,7 @@
     "Notes": ""
   },
   {
-    "Player": "Cordarrelle Patterson MIN (6)",
+    "Player": "Brian Hartline, FA",
     "BallersRank": 116,
     "ADP": 0,
     "Projected Pts.": 0,
@@ -1180,13 +1180,13 @@
     "Notes": ""
   },
   {
-    "Player": "Brian Hartline, FA",
+    "Player": "Bruce Ellington SF (8)",
     "BallersRank": 117,
     "ADP": 0,
     "Projected Pts.": 0,
-    "Risk": 0,
+    "Risk": 5,
     "Tier": "TIER 9",
     "Vid": "",
-    "Notes": ""
+    "Notes": "Bruce Ellington has had rave reviews in early training camp and is a clear starter for the Chip Kelley offense. With more plays being run per game in a Chip Kelley offense, and the absence of Anquan Bolden, there is an opportunity for some wide receiver to step up and make an impact on fantasy."
   }
 ]
