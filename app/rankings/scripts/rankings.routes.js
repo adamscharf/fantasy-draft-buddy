@@ -1,4 +1,4 @@
-/** 
+/**
  * Define the feature's routes here
  */
 (function() {
@@ -9,14 +9,14 @@
     .config(config);
 
     config.$inject = ['$stateProvider'];
-    function config($stateProvider) {			
+    function config($stateProvider) {
 			$stateProvider
 				.state('rankings', {
-					url: "/fantasy-draft-buddy",
+					url: "/",
 					templateUrl: "rankings/view/rankings.html",
 					controller: "rankingController",
 					controllerAs: 'vm'
-				});	
+				});
     }
 
 })();
